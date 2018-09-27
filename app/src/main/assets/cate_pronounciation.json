@@ -1,0 +1,26 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"English Alphabets",
+    "caption_kor":"알파벳 발음",
+    "cate_content_url":"pronounciation/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"Numbers",
+    "caption_kor":"숫자 발음",
+    "cate_content_url":"pronounciation/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Ordinal Numbers",
+    "caption_kor":"서수 발음",
+    "cate_content_url":"pronounciation/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"Syllables",
+    "caption_kor":"정확한 음절 익히기",
+    "cate_content_url":"pronounciation/content4.json"
+  }
+]

@@ -1,0 +1,43 @@
+[  {
+    "content_id": 1,
+    "caption_eng": "How is the taste?",
+    "caption_kor": "맛의 표현",
+    "cate_content_url": "food/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng": "What does the soup taste like? ",
+    "caption_kor": "맛을 표현하는 동사 'taste'",
+    "cate_content_url": "food/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng": "How is your meal?",
+    "caption_kor": "음식평",
+    "cate_content_url": "food/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng": "Let's go for dinner.",
+    "caption_kor": "그외 식사 관련 표현",
+    "cate_content_url": "food/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng": "What is 'Kimchi'?",
+    "caption_kor": "김치",
+    "cate_content_url": "food/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng": "What is 'Bulgogi'?",
+    "caption_kor": "불고기",
+    "cate_content_url": "food/content6.json"
+  },
+  {
+    "content_id": 7,
+    "caption_eng": "What is 'Bibimbap'?",
+    "caption_kor": "비빔밥",
+    "cate_content_url": "food/content7.json"
+  }
+]

@@ -1,0 +1,342 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.thedot.mystoryinenglishn.Index.SettingFragment"
+    android:background="@color/listview_white_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/setting_top"
+        android:background="@color/listview_gray_background"
+        android:orientation="vertical"
+        android:padding="20dip">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/setting_title_autoplay"
+            android:textColor="@color/list_text_color"
+            android:textSize="14dip" />
+
+        <Switch
+            android:id="@+id/switch_alex_autoplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/listview_white_background"
+            android:padding="10dp"
+            android:text="@string/setting_alex"
+            android:textColor="@color/list_text_color"
+            android:textSize="14dip"
+            android:thumb="@drawable/switch_thumb_selector"
+            android:track="@drawable/switch_track_selector" />
+
+        <Switch
+            android:id="@+id/switch_me_autoplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="@color/listview_white_background"
+            android:padding="10dp"
+            android:text="@string/setting_me"
+            android:textColor="@color/list_text_color"
+            android:textSize="14dip"
+            android:thumb="@drawable/switch_thumb_selector"
+            android:track="@drawable/switch_track_selector" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/setting_title_myavatar"
+            android:textColor="@color/list_text_color"
+            android:textSize="14dip" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/listview_white_background"
+            android:orientation="horizontal"
+            android:paddingTop="10dp">
+
+            <ImageView
+                android:id="@+id/avata1"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar1" />
+
+            <ImageView
+                android:id="@+id/avata2"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar2" />
+
+            <ImageView
+                android:id="@+id/avata3"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar3" />
+
+            <ImageView
+                android:id="@+id/avata4"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar4" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/listview_white_background"
+            android:orientation="horizontal"
+            android:paddingTop="10dp">
+
+            <ImageView
+                android:id="@+id/avata5"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar5" />
+
+            <ImageView
+                android:id="@+id/avata6"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar6" />
+
+            <ImageView
+                android:id="@+id/avata7"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar7" />
+
+            <ImageView
+                android:id="@+id/avata8"
+                android:layout_width="50dp"
+                android:layout_height="52.8dp"
+                android:layout_weight="1"
+                android:src="@drawable/avataaar8" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorWhite"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal">
+
+                <android.support.v7.widget.AppCompatRadioButton
+                    android:id="@+id/radio_avata8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:theme="@style/CustomRadioButton" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/setting_top"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/listview_white_background"
+        android:gravity="center_vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp">
+
+
+        <ImageButton
+            android:id="@+id/btn_setting_back"
+            android:layout_width="53dp"
+            android:layout_height="34dp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/btn_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:paddingRight="30dp"
+            android:text="@string/setting_title"
+            android:textColor="@color/list_text_color"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/setting_title_version_info"
+            android:textColor="@color/list_text_color"
+            android:textSize="14dip" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/background_light"
+            android:padding="10dp"
+            android:text="@string/setting_content_version_info"
+            android:textColor="@color/list_text_color"
+            android:textSize="14dip" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="0dp"
+            android:background="@color/colorWhite"
+            android:lineSpacingExtra="2sp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/setting_txt1"
+            android:textColor="@color/colorGray"
+            android:textSize="10dip" />
+
+        <TextView
+            android:id="@+id/personal_info_click"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="0dp"
+            android:background="@color/colorWhite"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/setting_txt2"
+            android:textColor="@color/colorGray"
+            android:textSize="10dip" />
+    </LinearLayout>
+</RelativeLayout>

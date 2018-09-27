@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/recorder_background"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp">
+
+        <ImageButton
+            android:id="@+id/btnRecordWindowClose"
+            android:layout_width="47dp"
+            android:layout_height="11dp"
+            android:layout_gravity="right|center_horizontal"
+            android:padding="0dp"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/btn_recorder_clsoe" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/recordWindow"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:paddingTop="15dp">
+
+        <TextView
+            android:id="@+id/txtRecordingTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:text="00:00"
+            android:textAlignment="center"
+            android:textSize="40dip" />
+
+        <TextView
+            android:id="@+id/txtFileName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-5dp"
+            android:padding="0dp"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textSize="12dip" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="8dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="right|center_vertical|center_horizontal">
+
+                <ToggleButton
+                    android:id="@+id/btnRecordPlay"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:layout_weight="1"
+                    android:background="@drawable/togglebutton_recordfile_play"
+                    android:textOff=""
+                    android:textOn="" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_weight="1"
+                android:gravity="center_vertical|center_horizontal">
+
+                <ToggleButton
+                    android:id="@+id/btnRecordRcording"
+                    android:layout_width="94dp"
+                    android:layout_height="94dp"
+                    android:background="@drawable/togglebutton_record_recording"
+                    android:textOff=""
+                    android:textOn="" />
+            </RelativeLayout>
+
+            <!--<ImageButton-->
+            <!--android:id="@+id/btnRecordRcording"-->
+            <!--android:layout_width="94dp"-->
+            <!--android:layout_height="94dp"-->
+            <!--android:layout_weight="1"-->
+            <!--android:background="@android:color/transparent"-->
+            <!--android:scaleType="fitCenter"-->
+            <!--app:srcCompat="@drawable/btn_recorder" />-->
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical">
+
+                <Button
+                    android:id="@+id/btnRecordDisk"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/togglebutton_recordfile_disk"
+                    android:scaleType="fitCenter" />
+
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
+

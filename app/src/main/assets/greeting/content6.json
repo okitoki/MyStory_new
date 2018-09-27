@@ -1,0 +1,32 @@
+{
+			"id":6,
+			"videoURL":"greeting_06",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+처음 만난 사람과 대화를 시작할 때는 안부를 먼저 물어보세요. 
+<br><br>
+<font color='#ea4156'>자연스럽게 대화를 시작하면서 본인의 이름을 얘기한 후 'Nice to meet you.'라 하며 악수를 하여보세요. </font>
+<br><br>
+한국에서는 처음 만났을 때 이름을 이야기하지 않는 경우가 많죠. 
+<br><br>
+하지만 영어권 나라에서는 만나면 본인의 이름을 먼저 말하는 것이 예의랍니다. 상대의 이름을 기억하는 것도 예의고요. 
+<br><br>
+<font color='#ea4156'>이름이 기억 안 난다면 'Excuse me. What is your name again?' 이렇게 물어보세요. </font>
+<br><br>
+한국에서처럼 처음 만났을 때 상대방의 나이를 물어보는 건 굉장히 실례되는 일이에요.  ",			
+			"syncInfo":"0,0,3,6,9,11,14,18",	
+			"content_subject":"It's nice to meet you.",
+			"english_content_text": "Mike: Hi, how are you?<br>/ 
+Linda: I'm good. Are you alright?<br>/
+Mike: Yes, great. I'm Mike.<br>/ 
+Linda:  Hi, I'm Linda. <br>/
+Mike: Nice to meet you Linda.<br>/
+Linda: Nice to meet you Mike. ",
+			
+			"korean_content_text": "Mike: 안녕하세요? (괜찮아요?)/<br>
+Linda: 좋아요. 당신은 괜찮아요?<br>/ 
+Mike: 네, 아주 좋아요. 나는 마이크에요.<br>/
+Linda: 안녕하세요. 나는 린다예요.<br>/ 
+Mike:  만나서 반가워요. 린다.<br> / 
+Linda: 만나서 반가워요. 마이크. "
+}

@@ -1,0 +1,54 @@
+{
+			"id":3,
+			"videoURL":"timecalendar_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    요일을 정확하게 질문하지 못하는 경우가 많아요. 'What time is it?'은 많이 들어 보셨죠? 'time' 대신 요일을 물어 물어볼 때는 'day'를, 날짜는 'date'를 넣으면 된답니다. <br><br>
+'What day is it?', 'What date is it?' 간단하죠?! 
+<br><br>
+답을 할 때는 항상 'it'으로 하는 것도 기억하세요. 'Today is Monday'가 아니고 'It's Monday.' 라고 하세요. 
+",			
+			"syncInfo":"0,0,2,4,6,7,9,12,14,16,19,21,23,25,27,30",	
+			"content_subject":"What day is it? ",
+			"english_content_text": "Q: What day is it? /<br>
+A: It's Monday. / <br><br>
+
+Q: What day is it? /<br>
+A: It's Tuesday./ <br><br>
+
+Q: What day is it? /<br>
+A: It’s Wednesday./<br><br>
+ 
+Q: What day is it? /<br>
+A: It’s Thursday./ <br><br>
+
+Q: What day is it?/ <br>
+A: It’s Friday./<br><br>
+
+Q: What day is it? /<br>
+A: It’s Saturday./ <br><br>
+
+Q: What day is it? /<br>
+A: It’s Sunday.  ",
+			"korean_content_text": "
+Q: 무슨 요일이에요? /<br>
+A: 월요일입니다. /<br><br>
+
+Q: 무슨 요일이에요? /<br>
+A: 화요일입니다. /<br><br>
+
+Q: 무슨 요일이에요?/<br>
+A: 수요일입니다./ <br><br>
+
+Q: 무슨 요일이에요? /<br>
+A: 목요일입니다. /<br><br>
+
+Q: 무슨 요일이에요?/ <br>
+A: 금요일입니다./ <br><br>
+
+Q: 무슨 요일이에요? /<br>
+A: 토요일입니다./ <br><br>
+
+Q: 무슨 요일이에요?/ <br>
+A: 일요일입니다."
+}

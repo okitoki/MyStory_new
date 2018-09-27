@@ -1,0 +1,69 @@
+{
+			"id":3,
+			"videoURL":"environment_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>unplug &nbsp; 스위치를 뽑다<br>
+plug &nbsp; 스위치를 꽂다<br>
+device &nbsp; 기구<br>
+be in use &nbsp; 사용되고 있는<br>
+turn down &nbsp; 낮추다<br>
+turn up &nbsp; 높히다<br>
+pressure &nbsp; 압력 <br> 
+heat up &nbsp; 데우다<br>
+microwave &nbsp; 전자레인지<br>
+rather than A &nbsp; A보다는  <br>
+replace &nbsp; 대신하다<br>
+lightbulb &nbsp; 전구<br>
+put on &nbsp; 덮다<br>
+lid &nbsp; 뚜껑<br>
+pot &nbsp; 냄비, 솥<br>
+pan &nbsp; 후라이팬<br>
+reduce &nbsp; 줄이다<br>
+avoid &nbsp; 피하다<br>
+fridge &nbsp; 냉장고, 냉장실<br>
+freezer &nbsp; 냉동실<br>
+browse &nbsp; 둘러보다<br>
+allow &nbsp; 허락하다 <br>
+cooked food &nbsp; 요리된 음식 <br>
+move in &nbsp; 이사를 하다<br>
+mug &nbsp; 머그잔<br>
+instead of A &nbsp; A 대신에<br>
+disposable &nbsp; 일회용의<br>
+dim &nbsp; 빛을 낮추다<br>
+flush &nbsp; 변기의 물을 내리다<br>
+reuse &nbsp; 다시 사용하다<br>
+printed &nbsp; 프린트 된<br>
+recycled &nbsp; 재활용이 된<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+
+방법을 알려주는 명령문이에요. 
+<br><br>
+<font color='#ea4156'>설명할 때는 주어를 쓰지 않고 동사부터 말해야 한다는 점 기억하세요.</font>  
+",			
+			"syncInfo":"0,0,5,11,16,19,23,27,32,37,43,46,52",	
+			"content_subject":"What can we do to save the earth?",
+			"english_content_text": "- Unplug devices when they aren’t in use./<br>
+- Take a mug or water bottle instead of using disposable cups./<br>
+- Replace your lightbulbs to LED lights./<br>
+- Dim your smartphone./<br>
+- Reuse paper that is printed only on one side./<br>
+- Use recycled paper./<br>
+- Put lids on pots and pans to reduce cooking time./<br>
+- Avoid opening the fridge or freezer to browse./<br>
+- Allow cooked food to cool before putting it in the fridge or freezer./<br> 
+- Turn down your water pressure./<br>
+- Flush the toilet less often./<br>
+",
+			"korean_content_text": "- 사용하지 않을때는 스위치를 뽑으세요./<br>
+- 일회용 컵 대신 머그 잔이나 물병을 가져가세요./<br>
+- LED 등으로 전구를 교체하세요./<br>
+- 스마트폰을 어둡게 하세요./<br>
+- 한쪽 면에만 인쇄된 용지를 재사용하세요./<br>
+- 재활용 종이 사용하세요./<br>
+- 조리시간을 줄이기위해 냄비와 팬에 뚜껑을 덮으세요./<br>
+- 그냥 보려고 냉장고나 냉동고 여는 것을 피하세요./<br>
+- 조리된 음식은 냉장고나 냉동고에 넣기 전에 식히세요. /<br>
+- 수압을 낮추세요./<br>
+- 변기 물을 덜 내리세요."
+}

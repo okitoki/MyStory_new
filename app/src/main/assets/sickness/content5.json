@@ -1,0 +1,47 @@
+{
+			"id":5,
+			"videoURL":"sickness_05",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>stiff &nbsp; 뻣뻣한, 결리는<br>
+stiff neck &nbsp; 목결림<br>
+shoulder &nbsp; 어깨<br>
+sore &nbsp; 따가운, 아픈<br>
+straighten &nbsp; 바로 하다<br>
+pain &nbsp; 고통, 아픔<br>
+cough &nbsp; 기침<br>
+hurt &nbsp; 아프다, 다치다<br>
+muscle &nbsp; 근육<br>
+muscular pain &nbsp; 근육통<br>
+pull &nbsp; 잡아당기다<br>
+pull a muscle &nbsp; 근육이 결리다<br>
+back &nbsp; 등<br>
+",			
+			"syncInfo":"0,0,2,6,9,14,17,21,26,30,33,36,41",	
+			"content_subject":"Waist and back",
+			"english_content_text": "I have a stiff neck./<br>
+My shoulders are stiff./<br>
+I have stiff shoulders./<br>
+My shoulders are sore from swimming yesterday./<br><br>
+
+My back hurts. /<br>
+I have a back pain./<br>
+When I try to straighten my back, I feel pain. /<br>
+When I cough, my back hurts./<br><br>
+
+My muscles are sore. /<br>
+I have muscular pains./<br>
+I pulled a muscle on my back. ",
+			"korean_content_text": "목이 결려요./<br>
+어깨가 결려요./<br>
+어깨가 결려요. /<br>
+어제 수영해서 어깨가 아파요./<br><br>
+
+등이 아파요. (등이 결려요.)/<br>
+허리 통증이 있어요./<br>
+등을 곧게 펴려고 하면 아파요./<br>
+기침하면 등이 아파요. /<br><br>
+
+근육이 아파요./<br>
+근육통이 있어요./<br>
+등근육이 결려요."
+}

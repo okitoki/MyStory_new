@@ -1,0 +1,45 @@
+{
+			"id":9,
+			"videoURL":"sickness_09",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>nearest &nbsp; 가장 가까운<br>
+pharmacy &nbsp; 약국<br>
+first aid kit &nbsp; 구급상자<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+Can you help me up? &nbsp; 일으켜 주세요<br>
+Can you support me? &nbsp; 부축해 주세요<br><br>
+
+<font color='#ea4156'>'I’m not feeling well.'은 기분이 안 좋을 때도 쓰이지만 '몸이 안 좋아'의 의미로 더 많이 쓰입니다. </font>
+    ",			
+			"syncInfo":"0,0,3,7,9,13,16,22,25,28,31,35,38,42",	
+			"content_subject":"Can you call the embulance?",
+			"english_content_text": "Excuse me, can you help me? /<br>
+Can anybody help? /<br><br>
+I’m not feeling well./<br><br>
+
+Where is the nearest pharmacy? /<br>
+Where is the nearest hospital? /<br>
+Can you take me to Hankuk hospital? /<br>
+Can you call the ambulance? /<br>
+Can you help me up?/ <br> 
+Can you support me?/ <br>
+Do you have a first aid kit? /<br><br>
+
+Are you all right? /<br>
+How are you? ",
+			"korean_content_text": "구급차를 불러주세요./ <br>
+저 좀 도와 주실 분 있어요? / <br>
+몸이 좀 안 좋아요./ <br> <br>
+
+가장 가까운 약국은 어디 있어요?/ <br> 
+가장 가까운 병원은 어디 있어요?/ <br> 
+한국 병원에 데려다 줄 수 있어요?/ <br> 
+구급차를 불러주세요./ <br> 
+저 좀 일으켜 주세요. / <br> 
+저 좀 부축해 주세요/ <br> 
+구급상자 있어요? / <br><br> 
+
+괜찮으세요? / <br> 
+괜찮으세요? "
+}

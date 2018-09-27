@@ -1,0 +1,17 @@
+{
+			"id":8,
+			"videoURL":"greeting_08",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+'I would like(I'd like) ...'는 'I want ...'의 정중한 표현입니다.
+<br><br>
+<font color='#ea4156'>조금 더 정중하게 소개하고 싶다면 'I'd like to introduce ...'를 사용 해 보세요.</font>
+<br><br>
+특히, 주문할 때는 'I want [a hamburger].'가 아니라 공손한 표현인 'I'd like [a hamburger].' 라 하는 것이 옳은 표현이에요.",			
+			"syncInfo":"0,0,5,9,12,16,18",	
+			"content_subject":"I'd like to introduce my co-worker Janet.",
+
+			"english_content_text": "Paul: Linda, I'd like to introduce my co-worker Janet. / Janet, I'd like you to meet my manager Linda. <br><br>/Janet: I'm glad to meet you. <br><br>/Linda: I'm happy to meet you. I've heard a lot about you.<br><br>/Janet: Same here.",
+
+			"korean_content_text": "Paul: 린다, 제 동료 자넷을 소개해주고 싶어요. /자넷, 나의 매니저 린다를 소개하고 싶어요. <br><br>/Janet: 만나서 반갑습니다.<br><br>/Linda: 만나서 반갑습니다. 말씀 많이 들었습니다.<br><br>/Janet: 저도요."
+}

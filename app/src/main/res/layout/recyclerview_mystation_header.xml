@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.thedot.mystoryinenglishn.Index.MyStationFragment">
+
+    <LinearLayout
+        android:id="@+id/mystation_wrap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/cateimg_mystation"
+                android:layout_width="80dp"
+                android:layout_height="48dp"
+                android:layout_marginRight="10dp"
+                android:scaleType="center"
+                android:src="@drawable/cate1_img" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/title_cate_eng"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Daily"
+                    android:textColor="@color/list_text_color"
+                    android:textSize="20dip"
+                    android:typeface="serif" />
+
+                <TextView
+                    android:id="@+id/title_cate_kor"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="규칙적인 나의 하루"
+                    android:textColor="@color/list_text_color"
+                    android:textSize="11dip" />
+            </LinearLayout>
+
+        </LinearLayout>
+        <!--<android.support.v7.widget.RecyclerView-->
+        <!--android:id="@+id/mycate_re_re"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+    </LinearLayout>
+</RelativeLayout>

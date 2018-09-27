@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="190dp" />
+
+    <ImageView
+        android:id="@+id/imageview_btn"
+        android:layout_width="40dp"
+        android:layout_height="51dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="65dp"
+        android:padding="0dp"
+        android:scaleType="fitStart"
+        android:visibility="gone"
+        android:src="@drawable/btn_media_paly" />
+    <RelativeLayout
+        android:id="@+id/videoViewWhite"
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:background="@color/listview_white_background">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Inverse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/video_seekbar_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/videoView"
+        android:layout_alignParentBottom="false"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:id="@+id/currentTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00:00"
+            android:textColor="@color/recordingfile_del_wrap_black"
+            android:textSize="12dip" />
+
+        <SeekBar
+            android:id="@+id/video_seekBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:max="95"
+            android:progress="0"
+            android:progressDrawable="@drawable/video_seekbar"
+            android:thumb="@color/colorAccent" />
+
+        <TextView
+            android:id="@+id/totalTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00:00"
+            android:textColor="@color/recordingfile_del_wrap_black"
+            android:textSize="12dip" />
+
+        <ToggleButton
+            android:id="@+id/btn_video_replay"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/togglebutton_video_replay"
+            android:padding="10dp"
+            android:textOff=""
+            android:textOn="" />
+    </LinearLayout>
+</RelativeLayout>

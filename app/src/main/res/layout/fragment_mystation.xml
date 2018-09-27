@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    tools:context="com.thedot.mystoryinenglishn.Index.MainActivity">
+    <RelativeLayout
+        android:id="@+id/grage_back_img"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:gravity="bottom|center">
+
+        <ImageView
+            android:id="@+id/img_fighting"
+            android:layout_width="wrap_content"
+            android:layout_height="118dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/fighting_img1" />
+
+        <TextView
+            android:id="@+id/text_fighting_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/img_fighting"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="false"
+            android:layout_centerVertical="false"
+            android:layout_marginBottom="35dp"
+            android:layout_toRightOf="@+id/img_fighting"
+            android:text="You are "
+            android:textColor="@color/colorAccent"
+            android:textSize="22dip"
+            android:typeface="serif" />
+
+        <TextView
+            android:id="@+id/text_fighting_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/img_fighting"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="false"
+            android:layout_centerVertical="false"
+            android:layout_marginBottom="35dp"
+            android:layout_toLeftOf="@+id/img_fighting"
+            android:text="You are "
+            android:textColor="@color/colorAccent"
+            android:textSize="22dip"
+            android:typeface="serif" />
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/top_area"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/listview_white_background"
+        android:gravity="center_vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp">
+
+        <ImageButton
+            android:id="@+id/btn_mystation_back"
+            android:layout_width="53dp"
+            android:layout_height="34dp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:paddingRight="20dp"
+            android:text="My Station"
+            android:textColor="@color/list_text_color"
+            android:textSize="18dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/wrap_top_con"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_below="@+id/top_area"
+        android:orientation="vertical"
+        android:paddingTop="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/total_grage_alex"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="@color/list_text_color"
+                android:textSize="40dip" />
+
+            <TextView
+                android:id="@+id/total_grage_me"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="@color/list_text_color"
+                android:textSize="40dip" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txt5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Alex-Listening"
+                android:textColor="@color/list_text_color"
+                android:textSize="12dip" />
+
+            <TextView
+                android:id="@+id/txt6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Me-Recording"
+                android:textColor="@color/list_text_color"
+                android:textSize="12dip" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/wrap_myranking"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_below="@+id/grage_back_img">
+
+        <TextView
+            android:id="@+id/txt7"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:gravity="left|center_vertical|center_horizontal|center"
+            android:text="My Category"
+            android:textColor="@color/list_text_color"
+            android:textSize="12dip" />
+        <View android:id="@+id/separator"
+            android:background="#979797"
+            android:layout_width = "fill_parent"
+            android:layout_height="1dip"
+            android:layout_below="@+id/txt7"/>
+
+    </RelativeLayout>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mycate_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/wrap_myranking"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
+
+

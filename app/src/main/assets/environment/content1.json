@@ -1,0 +1,38 @@
+{
+			"id":1,
+			"videoURL":"environment_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>peel &nbsp; 껍질<br>
+decompose &nbsp; 분해하다 <br>
+within &nbsp; 안에<br>
+cigarette &nbsp; 담배<br>
+take &nbsp; 시간이 걸리다<br>
+decomposition &nbsp; 분해<br>
+packaging &nbsp; 포장<br>
+packets &nbsp; 팩, 포장<br>
+aluminum &nbsp; 알루미늄 <br>
+diaper &nbsp; 기저귀
+",			
+			"syncInfo":"0,0,5,10,14,20,25,30,35,40,45,51",	
+			"content_subject":"Garbage Decomposition",
+			"english_content_text": "A banana peel decomposes in 2 to 10 days./<br> 
+    Paper carry bags decompose in 2 to 5 months./ <br>
+    An Orange peel decomposes within 6 months./<br>
+    A cigarette takes a year to 12 years for decomposition./<br> 
+    Milk packaging and cool drink packets decompose in 5 years./ <br>
+    Aluminum cans decompose in 80 to 100 years. /<br>
+    Plastic carry bags decompose in 15 to 1000 years./ <br>
+    Children’s diapers take 500 to 800 years for decomposition. /<br>
+    Glass bottles decompose in 1,000,000 years./ <br> 
+    Plastic bottles and cans never decompose.",
+			"korean_content_text": "바나나 껍질은 2~10일 안에 분해됩니다. /<br> 
+    종이 가방은 2~5개월 안에 분해됩니다./ <br> 
+    오렌지 껍질은 6개월 이내에 분해됩니다./<br>  
+    담배는 분해되는데 1~12년이 걸립니다./ <br> 
+    우유포장과 시원한 음료수 팩 포장은 5년 안에 분해됩니다. /<br> 
+    알루미늄 캔은 80~100년안에 분해됩니다./<br> 
+    비닐봉지는 15~100년안에 분해됩니다./ <br> 
+    아기 기저귀는 분해되는데 800년이 걸립니다. /<br> 
+    유리병은 1,000,000년안에 분해됩니다./ <br> 
+    플라스틱병과 캔은 결코 분해되지 않습니다. "
+}

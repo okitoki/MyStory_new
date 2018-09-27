@@ -1,0 +1,19 @@
+{
+			"id":4,
+			"videoURL":"greeting_04",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    <font color='#ea4156'> 월요일에 하는 인사입니다. 'your weekend'가 주어이니 대답은 'my weekend' 또는 'it'이 되어야겠죠.  </font>
+<br><br>
+과거의 시간을 물어보는 질문이므로 대답도 과거가 되어야 합니다. <br>
+'How was your holiday?' - 휴가 어땠어요?<br>
+'How was your exam?' - 시험 어땠어요?<br>
+'How was your interview?' - 인터뷰 어땠어요? 
+<br><br>
+이런 식으로 'your weekend' 대신에 상대방에게 일어났던 이벤트를 넣을 수 있어요. <font color='#ea4156'>여기서 대답은 'It was ...' 로 해야 합니다.</font>
+",			
+			"syncInfo":"0,0,3,9,15,18",
+			"content_subject":"How was your weekend?",
+			"english_content_text": "Lisa:  How was your weekend?<br><br>/Paul:  It was very relaxing after a busy week. I stayed home all weekend. How was yours?<br><br>/Lisa:  It was great. I went on a picnic with my family.<br><br>/Paul: That sounds great. ",
+			"korean_content_text": "Lisa: 주말 어땠어요?  <br><br>/Paul: 바쁜 한 주 후에 편안한 주말을 보냈어요. 주말동안 집에 있었어요. 주말 어땠어요? <br><br>/Lisa: 아주 좋았어요. 가족들과 소풍을 갔었어요.  <br><br>/Paul: 좋네요."
+}

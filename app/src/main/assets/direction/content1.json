@@ -1,0 +1,44 @@
+{
+			"id":1,
+			"videoURL":"direction_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>nearest &nbsp; 가장 가까운<br>
+straight &nbsp; 직진<br>
+on one's(소유격) right &nbsp; 오른쪽에<br>
+on one's(소유격) left &nbsp; 왼쪽에<br>
+until &nbsp; 까지<br>
+cross &nbsp; 건너다<br><br>
+ 
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+
+우리는 낯선 곳에서 길을 물어볼 때 지나가는 사람에게 '말씀 좀 여쭤 볼게요.'라고 하죠. 그 표현이 영어로는 'Can I ask you something?'입니다. <br><br>
+
+<font color='#ea4156'>설명할 때는 주어를 쓰지 않고 동사부터 문장을 시작해야겠죠. 'Go straight.' 또는 'Turn right.' 앞에 'you'를 쓰지 않아요.</font><br><br>
+
+'My pleasure.'는 'You're welcome.'과 같은 뜻으로 'Thank you.'의 대답으로 쓰입니다. 직역한다면 '저에게도 기쁨이에요.'의 의미예요. <br><br>
+
+'You can't miss it.'은 직역하면 '놓칠 수 없을 거예요' 지만 우리말로 보면 '쉽게 찾을 수 있을 거예요.'라는 의미로 쓰입니다. 
+    ",			
+			"syncInfo":"0,0,3,6,10,14,20",
+			"content_subject":"Are you new here?",
+			"english_content_text": "I’m new here too./<br>
+It’s my first time here too./<br>
+I’m not sure. You should ask someone else. /<br>
+I’ve never been here either./<br>
+There is an information center around the corner. They can help you. 
+    ",			
+			"syncInfo":"0,0,5,6,10,15,25,28,32,39,43",	
+			"content_subject":"Can I ask you something?",
+			"english_content_text": "Lisa: Hi, excuse me? Can I ask you something?/<br>
+Paul: Sure./<br>
+Lisa: Do you know where the nearest post office is? /<br>
+Paul: Yes, go straight and you will see Burger King on your right./  Turn right at Burger King and go straight until the end of the street, and then cross the street. /You will see Shinhan Bank right in front of you. /The post office is next to Shinhan Bank./<br>
+Lisa: Ok, go straight, turn right, then cross the street? Thank you so much. /<br>
+Paul: My pleasure. You can’t miss it.",
+			"korean_content_text": "Lisa: 저, 실례합니다. 뭐 좀 여쭤볼게요?/<br>
+Paul: 네./<br>
+LIsa: 가장 가까운 우체국이 어디에 있는지 아세요? /<br>   
+Paul: 네, 직진하면 오른편으로 버거킹이 보일 거예요./ 버거킹에서 우회전해서 그 길 끝까지 직진하세요. 그다음에 길을 건너세요. /그럼 앞에 신한은행이 보일 거예요. /우체국은 그 신한은행 옆에 있어요./<br>
+Lisa: 네, 직진하고 우회전, 그리고서 골목을 건너는 거죠? 정말 고맙습니다./<br>
+Paul: 별말씀을요. 쉽게 찾을 수 있을 거예요."
+}

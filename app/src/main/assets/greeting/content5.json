@@ -1,0 +1,17 @@
+{
+			"id":5,
+			"videoURL":"greeting_05",
+			"sampleImages":"",	
+			"word":" <h3><font color='#ea4156'><u>Tips</u></font></h3>
+    'hi' 대신에 'hey'로 간단히 인사 할 수 있어요. 
+<br><br>
+'How have you been?' <font color='#ea4156'>여기서 'have been'은 과거부터 지금까지를 물어보는 거예요.</font> 헤어진 후부터 지금까지 잘 지냈느냐고 물어보는 표현이죠. 
+<br><br>
+<font color='#ea4156'>'have p.p' 문장이므로 대답도 'have p.p'로 해야 하겠죠.</font>
+<br><br>
+'I haven't seen you for a long time.'과 같은 표현으로는 'Long time no see.'와 'It’s been a while.'이 있습니다.",		
+			"syncInfo":"0,0,5,8,11,14",	
+			"content_subject":"How have you been?",
+			"english_content_text": "Paul: Hey, I haven't seen you for a long time.<br><br>/Lisa: Yeah, how have you been? <br><br>/Paul: I have been great. How have you been?<br><br>/Lisa: I've been great, too.",
+			"korean_content_text": "Paul: 안녕하세요, 오랜만이에요.  <br><br>/Lisa:그러게요. 그동안 어떻게 지냈어요? <br><br>/Paul: 잘 지냈어요. 그동안 어떻게 지냈어요? <br><br>/Lisa: 나도 잘 지냈어요."
+}

@@ -1,0 +1,44 @@
+{
+			"id":4,
+			"videoURL":"pronunciation_04",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    
+<font color='#ea4156'>음절이란 발음을 할 때 음의 절, 곧 발음할 때 의도적으로 소리를 내는 부분을 의미합니다.</font> 한국어는 한 글자가 한 음절이지만 영어는 그렇지 않답니다.
+<br><br>
+예를 들어, '볼'은 한국말로 한음절이죠. 영어로도 'ball' 또한 한음절 단어입니다.
+<br><br>
+<font color='#ea4156'>여기서 음절의 수를 결정하는 것은 모음의 수예요. </font>
+<br><br>
+볼에서는 'ㅗ' , 'ball'에서는 'a', 'six'는 단어는 'i'라는 하나의 모음이 있으니 당연히 한 음절 단어입니다.
+<br><br>
+<font color='#ea4156'>하지만 한국 사람들은 '식스' 이런 식으로 두 음절로 발음하는 것이 일반적이에요.</font> 'six'의 옳은 발음은 '식ㅅ'가 더 더 가깝겠네요.
+<br><br>
+앞의 's'에 강세를 주고 정확한 발음을 연습해 보세요.
+<br><br>
+<font color='#ea4156'>모음이 붙어있을 때는 한 음절입니다.</font> 예를 들어 'tree'의 경우는 'ee'가 한 음절이 되는 것이죠. 
+<br><br>
+<font color='#ea4156'>단어 끝에 모음 'e'가 있을 때는 앞의 모음을 도와주고, 모음 역할을 하지 않아요.</font> 예를 들어 'polite'는 'e'가 'i'를 도와주는 역할을 하고 'e'는 발음하지 않아요.
+
+    ",			
+			"syncInfo":"0,0,3,5,7,9,11,14,15,18,20,22,23,25,27,31,33,35,37,40,42",
+			"content_subject":"Syllables",
+			"english_content_text": "1 syllable/ <br>
+ &nbsp;- once /&nbsp; six /&nbsp; nine /&nbsp; nice /&nbsp; ball /&nbsp; tree /<br>
+ &nbsp;-  A /&nbsp; F /&nbsp; I /&nbsp; S/<br><br>
+
+2 syllables /<br>
+ &nbsp;- seven /&nbsp; polite /&nbsp; father/<br><br>
+
+3 syllables /<br>
+ &nbsp;- beautiful /&nbsp; expensive /&nbsp; computer ",
+			"korean_content_text": "1 음절/<br>
+ &nbsp;- once /&nbsp; six /&nbsp; nine /&nbsp; nice /&nbsp; ball /&nbsp; tree/<br>
+ &nbsp;-  A /&nbsp; F /&nbsp; I /&nbsp; S/<br><br>
+
+2 음절/<br>
+ &nbsp;- seven /&nbsp; polite /&nbsp; father/<br><br>
+
+3 음절 /<br>
+ &nbsp;- beautiful /&nbsp; expensive /&nbsp; computer "
+}

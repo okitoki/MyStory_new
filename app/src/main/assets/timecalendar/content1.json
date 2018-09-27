@@ -1,0 +1,122 @@
+{
+			"id":1,
+			"videoURL":"timecalendar_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>
+    past &nbsp; 지난<br>
+a quarter &nbsp; 1/4<br>
+half &nbsp; 반<br>
+to &nbsp; 전 <br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+시간을 얘기하는 방법은 두 가지가 있어요. 
+<br><br>
+<font color='#ea4156'>한 가지는 전자시계 방법으로 시간, 분을 순서대로 이야기하는 방법이에요. </font>
+<br><br>
+예를 들어, '1시 25분(1:25)'이면 'one twenty-five'라고 해요. '1시 9분(1:09)'이면 'one oh nine'하면 됩니다. 우리말처럼 시간을 얘기할 때 시와 분을 따로 쓰지는 않아요. 
+<br><br>
+<font color='#ea4156'>다른 한 가지 방법은 분을 먼저 말하고 시간을 말하는 방법입니다.</font>
+<br>
+예를 <br>들어, 1시 25분(1:25)이면 '지나서의 의미'가 있는 'past'를 써 '25 past 1'이라고 합니다. 
+<br><br>
+이 방법에서는 '30분'을 'half' ,'15분'을 'a quarter'로도 바꾸어 말할 수 있어요. 
+<br><br>
+'past' 대신 '전'을 나타내는 'to'로 쓸 수도 있어요. 
+<br><br>
+'10시 45분(10:45)'이면 '45 past 10', '15 to 11' 또는 'a quarter to 11' 이렇게 할 수 있습니다. 정확히 말하면 여기서 'to'는 '까지'의 의미예요. 
+<br><br>
+예를 들어, 'I go to 종로.'라고 할 때 여기서 'to'는 종로에 즉, 종로까지 간다의 의미잖아요. 즉, '15 to 11'은 '11까지는 15분 (남았다)' 이라는 의미가 되는 거죠. 
+<br><br>
+일반적으로 '전'을 나타내는 'to'는 20분 전부터 쓴답니다. 
+    ",			
+			"syncInfo":"0,0,2,5,7,10,14,16,18,23,24,27,30,35,37,40,44,46,48,53,55,57,61,68,71,72,76,78,83,85,87,90,95,97,100,104,107",	
+			"content_subject":"What time is it?",
+			"english_content_text": "Q: What time is it? /<br>
+A: It's 1 o'clock./<br><br>
+
+Q: What time is it?/ <br>
+A: It's 1 oh 3./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 3 past 1. / <br><br>
+
+Q: What time is it?/ <br>
+A: It's 1 10. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 10 past 1./<br><br>
+
+Q: What time is it?/<br>
+A: It's 1 15./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 15 past 1. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's a quarter past 1./<br><br>
+
+Q: What time is it? /<br>
+A: It's 1 20. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 20 past 1./<br><br>
+
+Q: What time is it? /<br>
+A: It's 1 25. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 25 past 1./<br><br>
+
+Q: What time is it? /<br>
+A: It's 1 30./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 30 past 1. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's half past 1./<br><br>
+
+Q: What time is it?/ <br>
+A: It's 1 45./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 45 past 1./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 15 to 2./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's a quarter to 2./<br><br>
+
+Q: What time is it?/ <br>
+A: It's 1 50./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 50 past 1./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 10 to 2./<br><br>
+
+Q: What time is it?/ <br>
+A: It's 1 57./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 57 past 1./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's 3 to 2.",
+			"korean_content_text": "Q: 몇시입니까?/<br>
+A: 1시입니다./<br><br>
+
+Q: 몇시입니까?/<br>
+A: 1시 3분입니다. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 3분이 지났어요./<br><br>
+
+Q: 몇시입니까?/<br>
+A: 1시 10분입니다.  /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 10분이 지났어요. /<br><br>
+
+Q: 몇시입니까?/<br>
+A: 1시 15분입니다. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 15분이 지났어요./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 15분이 지났어요./ <br><br>
+
+Q: 몇 시입니까?/<br>
+A: 1시20분입니다. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 20분이 지났어요./ <br><br>
+
+Q: 몇시입니까?/<br>
+A: 1시 25분입니다./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 25분이 지났어요./<br><br> 
+
+Q: 몇시입니까?/<br>
+A: 1시 30분입니다. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 30분이 지났어요./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시 반이예요./<br><br>
+
+Q: 몇시입니까?/<br>
+A: 1시 45분입니다./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 45분이 지났어요. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2시 15분전이예요./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2시 15분전이예요./<br><br>
+    
+Q: 몇시입니까?/<br>
+A: 1시 50분입니다./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 50분이 지났어요./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2시 10분전이예요. /<br><br>
+
+Q: 몇시입니까?/<br>
+A: 1시 57분입니다. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1시하고 57분이 지났어요./ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2시 3분전이예요. "
+}

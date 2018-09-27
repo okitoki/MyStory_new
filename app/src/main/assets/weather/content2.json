@@ -1,0 +1,31 @@
+{
+			"id":2,
+			"videoURL":"weather_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>misty = foggy  안개 낀<br>
+chilly  쌀쌀한<br>
+mild  온화한<br>
+spring breeze  봄바람<br>
+temperature  온도<br>
+difference  변화<br>
+temperature difference  기온차<br> 
+can't wait  기대된다<br>
+cherry blossoms  벚꽃 <br>
+bloom  꽃이 피다<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>early-March = the beginning of March 3월 초<br>
+mid-March = the middle of March 3월 중순<br>
+late-March = the end of March 3월 말
+    
+    ",		
+			"syncInfo":"0,1,2,8,13,17,20,25,32",
+			"content_subject":"Spring is sunny and warm.",
+			"english_content_text": "It’s the end of March. /Finally, Spring comes after the long and cold winter. /<br><br>
+    It’s misty and chilly in the morning, but warm and mild in the afternoon. /The spring breeze feels nice. /There are big temperature differences these days. /I can’t wait for the cherry blossoms to bloom all over the country. /
+    <br><br>Just one bad thing is yellow dust from China and Mongolia.",
+			"korean_content_text": "지금은 3월 말입니다. /마침내 길고 추웠던 겨울이 지나고 봄이 옵니다. /<br><br>
+
+아침에는 안개가 끼고 쌀쌀하지만, 낮에는 따뜻하고 온화합니다. /봄바람에 기분이 좋습니다./ 요즘에는 일교차가 큽니다. /나는 전국에 피는 벚꽃을 기다리고 있어요. /<br><br>
+
+단 한 가지 나쁜 점은 중국과 몽골에서 오는 황사입니다."
+}

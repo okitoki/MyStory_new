@@ -1,0 +1,58 @@
+{
+			"id":1,
+			"videoURL":"sickness_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>cold &nbsp; 감기<br>
+headache &nbsp; 두통<br>
+migraine &nbsp; 편두통 <br>
+fever &nbsp; 열<br>
+dizzy &nbsp; 어지러움<br>
+slight &nbsp; 약간의<br> 
+split &nbsp; 나누다<br>
+splitting &nbsp; 쪼개질 듯이<br>
+can't stand &nbsp; 견딜 수 없다<br>
+suffer from &nbsp; 고통을 받다<br>
+severe &nbsp; 극심한<br>
+puffy &nbsp; 부운<br>
+sore &nbsp; 아픈, 따가운<br>
+red eye &nbsp; 충열된 눈<br>
+color-blind &nbsp; 색맹<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+이상하게도 병명은 셀 수 있는 명사랍니다.
+<font color='#ea4156'>병명 앞에 a(an) 쓰는 거 잊지 마세요.</font>
+    
+",				
+			"syncInfo":"0,0,2,4,8,10,14,16,21,24,28,30,33,36,39",	
+			"content_subject":"Head",
+			"english_content_text": "I have a cold./<br>
+I have a headache./ <br>
+I have a migraine./<br>
+I have a fever./<br>
+I feel dizzy./<br><br>
+
+I have a slight headache./<br>
+I have a splitting headache. It's killing me. /<br>
+I can't stand this headache./ <br>
+I’m suffering from a severe migraine./ <br><br>
+
+I have a puffy face./<br>
+My eyes are sore./<br>
+I have a red eye. /<br>
+I’m color-blind.",
+			"korean_content_text": "감기에 걸렸어요./<br>
+두통이 있어요./<br>
+편두통이 있어요./<br>
+열이 있어요./<br>
+어지러워요./<br><br>
+
+두통이 약간 있어요./<br>
+머리가 깨질 듯이 아파요. 그것 때문에 죽겠어요./<br>
+이 두통을 참을 수가 없어요./<br>
+심한 편두통으로 고통받고 있어요./<br><br>
+
+얼굴이 부었어요./<br>
+눈이 아파요./<br>
+눈이 빨갛게 충혈되었어요./<br>
+나는 색맹이에요."
+}

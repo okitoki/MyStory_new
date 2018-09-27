@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.thedot.mystoryinenglishn.Player.PlayActivity">
+    <SurfaceView
+        android:layout_width="0dip"
+        android:layout_height="0dip" />
+
+    <RelativeLayout
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_prev_unit"
+            android:layout_width="50dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="90dp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" />
+
+        <Button
+            android:id="@+id/btn_next_unit"
+            android:layout_width="50dp"
+            android:layout_height="70dp"
+            android:layout_gravity="right"
+            android:background="@android:color/transparent"
+            android:layout_marginTop="90dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"/>
+
+    </FrameLayout>
+    <FrameLayout
+        android:id="@+id/backnextContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_next_unit"
+            android:layout_width="50dp"
+            android:layout_height="70dp"
+            android:layout_gravity="right"
+            android:layout_marginTop="90dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:srcCompat="@drawable/btn_play_next" />
+
+        <ImageView
+            android:id="@+id/img_prev_unit"
+            android:layout_width="50dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="90dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:srcCompat="@drawable/btn_play_pre" />
+
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>
+

@@ -1,0 +1,26 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Cleaning the house",
+    "caption_kor":"집청소",
+    "cate_content_url":"doing_chores/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"Doing the laundry",
+    "caption_kor":"빨래",
+    "cate_content_url":"doing_chores/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Doing the dishes",
+    "caption_kor":"설거지",
+    "cate_content_url":"doing_chores/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"Taking out the garbage",
+    "caption_kor":"분리수거",
+    "cate_content_url":"doing_chores/content4.json"
+  }
+]

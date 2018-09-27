@@ -1,0 +1,26 @@
+{
+			"id":2,
+			"videoURL":"numbermoney_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>plus &nbsp; 더하기<br>
+equals &nbsp; 같다<br>
+minus &nbsp; 빼기<br>
+times &nbsp; 곱하기<br>
+multiplied by &nbsp; 곱하기<br>
+divided by &nbsp; 나누기",			
+			"syncInfo":"0,0,4,8,12,17,22",	
+			"content_subject":"Math time!! (1) - The four basic arithmetic operations",
+			"english_content_text": "4 plus 2 equals 6/<br><br>
+    
+4 minus 2 equals 2/<br><br>
+    
+4 times 2 equals 8/<br>   
+4 multiplied by 2 equals 8/<br><br>
+    
+4 divided by 2 equals 2",
+			"korean_content_text": "4 + 2 = 6/ <br><br>
+4 - 2 = 2 /<br><br>
+4 × 2 = 8 /<br>
+4 × 2 = 8 /<br><br>
+4 ÷ 2 = 2 "
+}

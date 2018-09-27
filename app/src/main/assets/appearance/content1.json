@@ -1,0 +1,65 @@
+{
+			"id":1,
+			"videoURL":"appearance_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>pupil &nbsp; 눈동자<br>
+eyelid &nbsp; 눈커플<br>
+eyebrow &nbsp; 눈썹<br>
+eyelash &nbsp; 속눈썹<br>
+beard &nbsp; 수염<br>
+mustache &nbsp; 콧수염<br>
+forehead &nbsp; 이마<br>
+pimple &nbsp; 여드름<br>
+cheek &nbsp; 뺨<br>
+dimple &nbsp; 보조개<br>
+nostril &nbsp; 콧구멍<br>
+chin &nbsp; 턱",			
+			"syncInfo":"0,0,1,3,4,6,9,11,12,14,16,18,20,23,25,27,28,30,32,34,36,37,40",	
+			"content_subject":"Head",
+			"english_content_text": "head/<br>
+hair/<br>
+face/<br>
+skin/<br>
+eye(eyes)/<br>
+pupil/<br>
+eyelid/<br>
+eyebrow/<br>
+eyelash/<br>
+beard/<br>
+mustache/<br><br>
+
+ear(ears)/<br>
+forehead/<br>
+pimple/<br>
+cheek/<br>
+dimple/<br><br>
+
+nose/<br>
+nostril/<br>
+mouth/<br>
+lip/<br>
+chin",
+			"korean_content_text": "머리/<br>
+털, 머리카락/<br>
+얼굴/<br>
+피부/<br>
+눈/<br>
+눈동자/<br>
+눈꺼풀/<br>
+눈썹/<br>
+속눈썹/<br>
+수염/<br>
+콧수염/<br><br>
+
+귀/<br>
+이마/<br>
+여드름/<br>
+뺨/<br>
+보조개/<br><br>
+
+코/<br>
+콧구멍/<br>
+입/<br>
+입술/<br>
+턱"
+}

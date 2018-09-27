@@ -1,0 +1,56 @@
+{
+			"id":4,
+			"videoURL":"numbermoney_04",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    <font color='#ea4156'>가격을 물어볼 때 단수와 복수 구분하는 거 잊지 마세요.<br><br>
+
+단수는 'How much is it?' <br>
+복수는 'How much are they?' 라고 합니다.</font> <br><br>
+
+'2' 이상의 숫자 뒤에는 복수가 나와야 하는 것 아시죠. <br><br>
+
+<font color='#ea4156'>예를 들어, '1 dollar'이고 '2 dollars'입니다.</font> <br>
+    단, 한국말에는 복수가 없잖아요. 그래서 한국 돈을 나타내는 '원'에는 복수를 쓰지 않아요. 중국 돈인 '옌'과 일본 돈 '엔'도 복수형이 없답니다.
+    ",			
+			"syncInfo":"0,0,2,7,10,13,18,21,25,29,33,36,44,46,52",	
+			"content_subject":"How much is it?",
+			"english_content_text": "$58.35<br>
+Q: How much is the jacket? /<br>
+A: It's 58 dollars and 35 cents. / <br>
+&nbsp;&nbsp;&nbsp;&nbsp;It's 58 35. /<br><br>
+
+Q: How much are the shoes? /<br>
+A: They're 129 dollars and 50 cents. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;They are 129 50./<br><br>
+
+Q: How much are the sunglasses?/<br>
+A: They're 55 pounds and 90 pence. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;They are 55 90./<br><br>
+
+Q: How much is this book? /<br>
+A: It's 10 euros and 99 cents. / 
+&nbsp;&nbsp;&nbsp;&nbsp;It's 10 99./<br><br>
+
+₩1,200,000<br>
+Q: How much is the couch? /<br>
+A: It's 1 million 2 hundred thousand won.",
+			"korean_content_text": "Q: 이 재킷 얼마에요?/<br>
+A: 58불 35센트입니다. /<br>
+&nbsp;&nbsp;&nbsp;&nbsp;58불 35센트입니다./<br><br>
+
+Q: 이 신발 얼마에요?/<br>
+A: 129불 50센트입니다./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;129불 50센트입니다./<br><br>
+
+Q: 이 선글라스 얼마에요?/<br>
+A: 55파운드 90펜스에요./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;55파운드 90펜스에요./<br><br>
+
+Q: 이 책 얼마에요?/<br>
+A: 10유로 99센트입니다./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;10유로 99센트입니다./<br><br>
+
+Q: 이 소파 얼마에요?/<br>
+A: 백 이십만 원입니다."
+}

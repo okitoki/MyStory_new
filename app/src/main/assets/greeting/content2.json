@@ -1,0 +1,21 @@
+{
+			"id":2,
+			"videoURL":"greeting_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    'How is it going?'은 'How are you?'와 같은 상황에서 쓰이지만, 의미는 조금 달라요. <font color='#ea4156'> 여기서 'it'은 상대방의 생활을 의미하거든요.</font> <br><br>
+
+'go'가 가다 의미도 있지만 진행하다의 의미가 있어요. <font color='#ea4156'>여기서는 '너의 삶은 어떻게 진행되어가고 있니'예요. 그래서 대답도 'it'으로 해야 한답니다.</font> <br><br>
+
+'How is it going?', 'How is it going with you?', 'How is everything going?', 'How is everything going with you?'는 다 같은 의미입니다. <br><br>
+
+마지막 대답을 보면, 내가 피곤해도 먼저 'It's ok.' 이렇게 긍정적으로 대답하고 피곤하다고 하는 것이 좋아요. ",		
+			"syncInfo":"0,0,2,7,11",
+			"content_subject":"How is it going?",
+			"english_content_text": "Lisa: How is it going?<br><br>/
+    Paul: It's going well. How is everything going with you?<br><br>/
+    Lisa: It's ok but I'm a bit tired.",
+			"korean_content_text": "Lisa: (오늘) 어때요?<br><br>/
+    Paul: 괜찮아요. 당신의 (주변) 모든 것들은 어때요?<br><br>/
+    Lisa: 괜찮기는 한데, 좀 피곤해요. "
+}

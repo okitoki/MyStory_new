@@ -1,0 +1,42 @@
+{
+			"id":3,
+			"videoURL":"doingchores_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>wear &nbsp; 입다, 끼다<br>
+rubber &nbsp; 고무 <br>
+gloves &nbsp; 장갑<br>
+scrape &nbsp; 긁다<br>
+leftover &nbsp; 남은<br>
+soak &nbsp; 담구다, 적시다<br>
+sponge &nbsp; 스폰지, 수세미<br>
+scrub &nbsp; 문질러 씻다<br>
+rinse &nbsp; 행구나<br>
+place &nbsp; 두다 <br>
+drain &nbsp; 물을 빼다 <br>
+drain rack &nbsp; 식기건조대<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+
+방법을 알려주는 명령문이에요. <br><br>
+
+<font color='#ea4156'>설명할 때는 주어를 쓰지 않고 동사부터 말해야 한다는 점 기억하세요.</font><br><br>
+
+'wear'는 '입다' 외에도 피부에 닿는 것은 다 쓸 수 있어요. <br><br>
+
+예를 들어, 'I wear glasses.', 'I wear lipstick.', 'I wear a watch.' 등 '입다', '쓰다', '끼다', '바르다', '걸치다' 등의 의미로 쓰여요. 
+",		
+			"syncInfo":"0,0,3,7,12,17,20,26",
+			"content_subject":"Doing the dishes",
+			"english_content_text": "1. Wear rubber gloves.<br>
+/2. Scrape the leftover food from the dishes.<br>
+/3. Put the items in the sink and soak them in hot water.<br>
+/4. Add soap to a sponge and scrub the dishes.<br>
+/5. Rinse them with warm water.<br>
+/6. Place them in the drain rack to drain.<br>",
+			"korean_content_text": "1. 고무 장갑을 끼세요.<br>
+/2. 접시에서 남은 음식을 긁어냅니다.<br>
+/3. 싱크대에 그릇을 넣고 뜨거운 물에 담그세요.<br>
+/4. 스폰지에 비누를 넣고 접시를 문지릅니다.<br>
+/5. 따뜻한 물로 행구세요.<br>
+/6. 식기 건조대 놓고 건조시킵니다. <br>"
+}

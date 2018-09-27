@@ -1,0 +1,59 @@
+{
+			"id":1,
+			"videoURL":"personality_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>outgoing &nbsp; 외향적인<br>
+active &nbsp; 활동적인<br>
+positive &nbsp; 긍정적인<br>
+generous &nbsp; 너그러운<br>
+calm &nbsp; 차분한<br>
+polite &nbsp; 공손한, 예의바른<br>
+kind &nbsp; 친절한<br>
+friendly &nbsp; 다정한<br>
+open-minded &nbsp; 열린 사고를 가진, 개방적인<br>
+diligent &nbsp; 부지런한<br>
+sincere &nbsp; 진실된<br>
+confident &nbsp; 자신감있는<br>
+thoughtful &nbsp; 생각이 깊은<br>
+sociable &nbsp; 사교적
+    
+",			
+			"syncInfo":"0,0,2,4,6,8,10,12,14,16,18,20,22,24,26,29,31,35",	
+			"content_subject":"What is your personality like?(1)",
+			"english_content_text": "I am outgoing./<br>
+I am active./<br>
+I am positive./<br>
+I am generous./<br>
+I am calm./<br><br>
+    
+I am polite. /<br>
+I am kind. /<br>
+I am friendly./<br>
+I am open-minded./<br>
+I am diligent./<br><br>
+    
+I am sincere. /<br>
+I am confident./<br>
+I am thoughtful./<br>
+I am sociable. /<br>
+I am easygoing./<br>
+I am considerative.",
+			"korean_content_text": "나는 외향적입니다./<br>
+나는 활동적입니다./<br>
+나는 긍정적입니다./<br>
+나는 너그럽습니다./<br>
+나는 차분합니다./<br><br>
+
+나는 예의바릅니다./<br>
+나는 친절합니다./<br>
+나는 다정합니다./<br>
+나는 개방적입니다./<br>
+나는 부지런합니다./<br><br>
+
+나는 진실합니다./<br>
+나는 자신만만합니다./<br>
+나는 생각이 깊습니다./<br>
+나는 사교적입니다./<br>
+나는 성격이 무난합니다./<br>
+나는 사려깊습니다."
+}

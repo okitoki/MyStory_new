@@ -1,0 +1,213 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.thedot.mystoryinenglishn.Index.CategoryFragment">
+
+    <ScrollView
+        android:id="@+id/page_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/top_area">
+
+        <LinearLayout
+            android:id="@+id/content_scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/categorytitle_basic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-10dp"
+                android:paddingLeft="20dip"
+                android:text="@string/cate_basic_title"
+                android:textColor="@color/colorBlack"
+                android:textSize="25sp" />
+            <HorizontalScrollView
+                android:id="@+id/h1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/cate_basic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/categorytitle_daily"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dip"
+                android:paddingTop="10dip"
+                android:text="@string/cate_daily_title"
+                android:textColor="@color/colorBlack"
+                android:textSize="25sp"
+                android:typeface="serif" />
+
+            <HorizontalScrollView
+                android:id="@+id/h2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/cate_daily"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp">
+
+                <ImageView
+                    android:id="@+id/videoIcon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/tl_episode" />
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/youtubeLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/categorytitle_people"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dip"
+                android:paddingTop="10dip"
+                android:text="@string/cate_people_title"
+                android:textColor="@color/colorBlack"
+                android:textSize="25sp"
+                android:typeface="serif" />
+
+            <HorizontalScrollView
+                android:id="@+id/h3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/cate_people"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/categorytitle_travel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dip"
+                android:paddingTop="10dip"
+                android:text="@string/cate_travel_title"
+                android:textColor="@color/colorBlack"
+                android:textSize="25sp"
+                android:typeface="serif" />
+
+            <HorizontalScrollView
+                android:id="@+id/h4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/cate_travel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/categorytitle_issue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dip"
+                android:paddingTop="10dip"
+                android:text="@string/cate_issu_title"
+                android:textColor="@color/colorBlack"
+                android:textSize="25sp"
+                android:typeface="serif" />
+
+            <HorizontalScrollView
+                android:id="@+id/h5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/cate_issue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/categorytitle_country"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="20dip"
+                android:paddingTop="10dip"
+                android:text="@string/cate_country_title"
+                android:textColor="@color/colorBlack"
+                android:textSize="25sp"
+                android:typeface="serif" />
+
+            <HorizontalScrollView
+                android:id="@+id/h6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/cate_country"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/top_area"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/listview_white_background"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <ImageButton
+            android:id="@+id/btn_category_mystation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_mystation" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="CATEGORY"
+            android:textColor="@color/list_text_color"
+            android:textSize="18dip" />
+
+        <ImageButton
+            android:id="@+id/btn_category_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_setting" />
+
+    </LinearLayout>
+
+</RelativeLayout>

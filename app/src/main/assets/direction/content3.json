@@ -1,0 +1,33 @@
+{
+			"id":3,
+			"videoURL":"direction_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>corner &nbsp; 코너 
+next to &nbsp; 옆에<br>
+between A and B &nbsp; A와 B 사이에<br>
+convenience store &nbsp; 편의점<br>
+in front of &nbsp; 앞에<br>
+behind &nbsp; 뒤에<br>
+across from &nbsp; 건너편에<br>
+just &nbsp; 바로, 막<br>
+past &nbsp; 지나서
+    ",		
+			"syncInfo":"0,0,2,5,9,13,16,19,22,26",
+			"content_subject":"Where is it?",
+			"english_content_text": "- It’s on the corner./<br> 
+- It’s next to the bank./<br> 
+- It’s between the post office and the convenience store./<br> 
+- It’s in front of the flower shop./<br> 
+- It’s behind the bank. /<br> 
+- It’s across from the bank. /<br> 
+- It’s at the end of the street. /<br> 
+- It’s just past the bank.",
+			"korean_content_text": "- 코너에 있습니다./<br> 
+- 은행 옆에 있습니다./<br> 
+- 우체국과 편의점 사이에 있습니다./<br> 
+- 꽃집 앞에 있습니다./<br> 
+- 은행 뒤에 있습니다./<br> 
+- 은행 건너편에 있습니다./<br> 
+- 길 끝에 있습니다./<br> 
+- 은행 지나서 바로 있습니다."
+}

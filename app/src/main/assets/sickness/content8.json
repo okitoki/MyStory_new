@@ -1,0 +1,55 @@
+{
+			"id":8,
+			"videoURL":"sickness_08",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>hangover &nbsp; 숙취<br>
+hiccups &nbsp; 딱국질<br>
+mental &nbsp; 정신이상<br>
+itchy &nbsp; 가려운<br>
+burn &nbsp; 데다<br>
+bleed &nbsp; 피흘리다<br>
+cut &nbsp; 베다<br>
+medicine &nbsp; 약<br>
+painkiller &nbsp; 진통제<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+<font color='#ea4156'>'take medicine' 약을 먹는다는 'eat' 동사가 아닌 '섭취하다'의 의미로 'take' 동사를 씁니다.</font><br><br>
+
+누군가가 몸이 안 좋다면 아니라면 안 좋은 일이 있다면 이렇게 위로해 주세요.
+'I hope you get better soon.'
+    
+",			
+			"syncInfo":"0,0,2,5,8,12,15,18,21,25,27,30,34,38",	
+			"content_subject":"I have a hangover.",
+			"english_content_text": "I have a hangover. /<br>
+I have hiccups. /<br>
+She is mental. /<br>
+I feel itchy here./<br><br>
+    
+I burned myself./<br>
+I burned my finger./<br>
+I’m bleeding here. /<br>
+I cut myself./<br>
+I cut my finger./<br><br>
+
+I have to take medicine./<br>
+I should take a painkiller./<br><br>
+
+I hope you get better soon. ",
+			"korean_content_text": "
+숙취가 있어요./<br>
+딸꾹질이 나요./<br>
+그녀는 (정신이) 이상해요./<br>
+여기가 가려워요./<br><br>
+
+여기를 데었어요./<br>
+손가락을 데었어요./<br>
+여기에 피가 나요./<br>
+여기를 베었어요./<br>
+손가락을 베였어요./<br><br>
+
+약을 먹어야만 해요./<br>
+진통제를 먹는 것이 좋겠어요./<br><br>
+
+곧 낫기를 바랍니다."
+}

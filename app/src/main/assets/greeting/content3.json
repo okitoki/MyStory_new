@@ -1,0 +1,20 @@
+{
+			"id":3,
+			"videoURL":"greeting_03",
+			"sampleImages":"",	
+			"word":" <h3><font color='#ea4156'><u>Tips</u></font></h3>
+    
+    친한 사이에서 저녁에 만났을 때 물어보는 질문이에요. <font color='#ea4156'> 여기에서 'I am good.'이라고 하면 틀린 대답이겠죠.  <br><br>
+
+'How was your day(너의 하루)?'에서 너의 하루가 주어이므로 대답은 'my day' 또는 'it'이 되어야 합니다.</font> <br><br>
+
+동사가 'was'과거이므로 대답도 같이 'was'로 해야겠죠. <br><br>
+
+'It was very busy.'를 앞에 쓰는 것보다는 긍정의 의미인 'It was ok.'를 먼저 얘기 하는 것이 좋아요. <br><br>
+
+부정으로 대답할 때는 그 이유까지 말하는 것이 일반적이랍니다.   ",			
+			"syncInfo":"0,0,1,4,9",
+			"content_subject":"How was your day?",
+			"english_content_text": "Paul: How was your day?<br><br>/Lisa: It was great. How was yours?<br><br>/Paul: It was ok but very busy. ",
+			"korean_content_text": "Paul: 오늘 어땠어요? <br><br>/Lisa: 좋았어요. 당신은요?<br><br>/Paul: 괜찮았는데 아주 바빴어요. "
+}

@@ -1,0 +1,23 @@
+{
+			"id":1,
+			"videoURL":"pronunciation_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    한국어의 강세는 단어의 뒤에 있어서 <font color='#ea4156'>한국 사람들이 영어를 발음할 때도 강세를 단어의 뒤에 주는 경향이 있답니다.</font>
+<br><br>
+예를 들어, 'A' 발음할 때, 한국어는 '에이' 즉, [ㅇ ㅔ ㅇ ㅣ] 중 마지막 [ㅣ] 에 강세를 주고 발음하는 경향이 있지만, <font color='#ea4156'>영어의 옳은 발음은 앞의  [ㅇ]에 강세를 주는 거예요. 
+<br><br>
+항상 단어의 앞부분에 강세를 주면서 연습해 보세요.</font>
+    ",			
+			"syncInfo":"0,0,3,4,6,8,10,12,14,16,18,19,22,23,26,27,29,31,33,35,37,38,40,42,45,46,49,52",	
+			"content_subject":"English Alphabets",
+			"english_content_text": "A/&nbsp;&nbsp;  B/&nbsp;&nbsp;  C/&nbsp;&nbsp;  D/&nbsp;&nbsp;  E/&nbsp;&nbsp;  F/<br> 
+    G/&nbsp;&nbsp;  H/&nbsp;&nbsp;  I/&nbsp;&nbsp;  J/&nbsp;&nbsp;  K/&nbsp;&nbsp;  L/&nbsp;&nbsp;  M/&nbsp;&nbsp; <br>
+    N/&nbsp;&nbsp;  O/&nbsp;&nbsp;  P/&nbsp;&nbsp;  Q/&nbsp;&nbsp;  R/&nbsp;&nbsp;  S/<br>
+    T/&nbsp;&nbsp;  U/&nbsp;&nbsp;  V/&nbsp;&nbsp;  W/&nbsp;&nbsp;  X/&nbsp;&nbsp;  Y/&nbsp;&nbsp;  Z",
+			"korean_content_text": "A/&nbsp;&nbsp;  B/&nbsp;&nbsp;  C/&nbsp;&nbsp;  D/&nbsp;&nbsp;  E/&nbsp;&nbsp;  F/<br> 
+    G/&nbsp;&nbsp;  H/&nbsp;&nbsp;  I/&nbsp;&nbsp;  J/&nbsp;&nbsp;  K/&nbsp;&nbsp;  L/&nbsp;&nbsp;  M/&nbsp;&nbsp; <br>
+    N/&nbsp;&nbsp;  O/&nbsp;&nbsp;  P/&nbsp;&nbsp;  Q/&nbsp;&nbsp;  R/&nbsp;&nbsp;  S/<br>
+    T/&nbsp;&nbsp;  U/&nbsp;&nbsp;  V/&nbsp;&nbsp;  W/&nbsp;&nbsp;  X/&nbsp;&nbsp;  Y/&nbsp;&nbsp;  Z"
+}
+

@@ -1,0 +1,39 @@
+{
+			"id":4,
+			"videoURL":"sickness_04",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>prick &nbsp; 찌르다<br>
+pricking &nbsp; 찌르는 듯한, 따끔따끔한<br>
+pain &nbsp; 고통, 통증<br>
+chest &nbsp; 가슴<br>
+breath &nbsp; 숨<br>
+get out of breath &nbsp; 숨이차다<br>
+take a breath &nbsp; 숨쉬다<br>
+cough &nbsp; 기침<br>
+faint &nbsp; 기절하다<br>
+fainting &nbsp; 기절, 졸도<br>
+be allergic to A &nbsp; A에 알러지가 있다
+",		
+			"syncInfo":"0,0,3,8,12,18,21,26,29,32,36",
+			"content_subject":"Chest",
+			"english_content_text": "I have a pricking pain in my chest. /<br>
+I get out of breath when I walk a little./<br>
+I have a heavy feeling in my chest./<br>
+I have a prickling pain in my chest whenever I take a breath./<br>
+I have dry coughs./<br>
+I feel like fainting./<br><br>
+
+I’m allergic to nuts.  /<br>
+I’m allergic to shellfish./<br>
+I’m allergic to peaches.",
+			"korean_content_text": "가슴에 찌르는 듯한 통증이 있어요./<br>
+조금만 걸으면 숨이 차요./<br>
+가슴이 답답해요./<br>
+숨을 들이 쉬면 가슴에 통증이 있어요./<br>
+마른 기침을해요./<br>
+기절할 것 같아요. (현기증이 나요.)/<br><br>
+
+견과류 알러지가 있어요./<br>
+갑각류 알러지가 있어요./<br>
+복숭아 알려지가 있어요."
+}

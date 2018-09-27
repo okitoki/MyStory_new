@@ -1,0 +1,50 @@
+{
+			"id":2,
+			"videoURL":"doingchores_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>label &nbsp; 라벨<br>
+laundry &nbsp; 빨래<br>
+fabric &nbsp; 천<br>
+sort &nbsp; 종류, 구분하다<br>
+sorted &nbsp; 구분되어진 <br>
+into &nbsp; 안으로<br>
+washing machine &nbsp; 세탁기<br>
+detergent &nbsp; 세제<br>
+softener &nbsp; 섬유 유연제<br>
+bleach &nbsp; 표백제<br>
+select &nbsp; 선택하다<br>
+appropriate &nbsp; 적합한<br>
+temperature &nbsp; 온도<br>
+cycle &nbsp; 순환, 사이클<br>
+remove &nbsp; 제거하다,  치우다<br>
+wet &nbsp; 젖은<br>
+shake out &nbsp; 털다<br>
+prevent &nbsp; 방지하다<br>
+wrinkly &nbsp; 주름진<br>
+hang &nbsp; 걸다, 널다<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+
+방법을 알려주는 명령문이에요. <br><br>
+
+<font color='#ea4156'>설명을 할 때는 주어를 쓰지않고 동사부터 말해야 한다는 점 기억하세요. </font>
+    ",		
+			"syncInfo":"0,0,6,11,17,20,24,29,34,38",
+			"content_subject":"Doing the laundry",
+			"english_content_text": "1. Check the labels on your clothing and sort the laundry by color and fabric.<br>
+/2. Put the sorted laundry into the washing machine.<br>
+/3. Add detergent and softener into the washing machine. <br>
+/4. Add bleach if needed.<br>
+/5. Select the appropriate water temperature and cycle.<br>
+/6. Remove wet laundry from the washing machine.<br>
+/7. Shake out clothes to prevent them from getting wrinkly.<br>
+/8. Hang the clothes to dry.",
+			"korean_content_text": "1. 의류의 라벨을 확인하고 세탁물을 색상과 천으로 분류하십시오.<br>
+/2. 분류 된 세탁물을 세탁기에 넣으세요.<br>
+/3. 세제 및 유연제를 세탁기에 넣으세요.<br>
+/4. 필요하다면 표백제를 넣으십시오.<br>
+/4. 적절한 수온과 사이클을 선택하세요.<br>
+/5. 세탁기에서 젖은 세탁물을 꺼냅니다.<br>
+/6. 주름을 방지하기 위해 옷을 털어주세요.<br>
+/7. 옷을 널어 말리세요.<br>"
+}

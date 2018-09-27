@@ -1,0 +1,50 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"How are you?",
+    "caption_kor":"안부를 묻는 일반적인 인사",
+    "cate_content_url":"greeting/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"How is it going?",
+    "caption_kor":"일상을 묻는 인사, 주어를 주의",
+    "cate_content_url":"greeting/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"How was your day?",
+    "caption_kor":"하루의 안부를 묻는 인사, 주어와 시제를 주의",
+    "cate_content_url":"greeting/content3.json"
+  },
+   {
+    "content_id": 4,
+    "caption_eng":"How was your weekend?",
+    "caption_kor":"한 주의 안부를 묻는 인사, 주어와 시제를 주의",
+    "cate_content_url":"greeting/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"How have you been?",
+    "caption_kor":"오랜만에 만났을 때 하는 인사, 'have pp'로",
+    "cate_content_url":"greeting/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"It's nice to meet you.",
+    "caption_kor":"처음 만났을 때는 이름 먼저",
+    "cate_content_url":"greeting/content6.json"
+  },
+    {
+      "content_id": 7,
+      "caption_eng":"This is my sister Hana.",
+      "caption_kor":"모르는 사람을 소개할 때는 'this is'로",
+      "cate_content_url":"greeting/content7.json"
+    },
+    {
+      "content_id": 8,
+      "caption_eng":"I'd like to introduce my co-worker Janet.",
+      "caption_kor":"공손하게 소개하려면, 'I'd like'로",
+      "cate_content_url":"greeting/content8.json"
+    }
+]

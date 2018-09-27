@@ -1,0 +1,67 @@
+{
+			"id":2,
+			"videoURL":"personality_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>serious &nbsp; 진지한<br>
+arrogant &nbsp; 오만한, 거만한<br>
+talkative &nbsp; 수다스러운<br>
+shy &nbsp; 수줍은<br>
+strict &nbsp; 엄격한, 고지식한<br>
+sensitive &nbsp; 예민한<br>
+rude &nbsp; 무례한<br>
+lazy &nbsp; 게으른<br>
+loud &nbsp; 시끄러운<br>
+negative &nbsp; 부정적<br>
+patient &nbsp; 참을성 있는<br>
+impatient &nbsp; 참을성 없는<br>
+mean &nbsp; 못된<br>
+selfish &nbsp; 이기적인<br>
+stubborn &nbsp; 고집이 센<br>
+bossy &nbsp; 권위적인<br>
+aggressive &nbsp; 공격적인, 적극적인<br>
+greedy &nbsp; 욕심이 많은<br>
+sarcastic &nbsp; 냉소적<br>
+moody &nbsp; 기분 변화가 심한<br>
+",			
+			"syncInfo":"0,0,2,4,6,9,10,13,15,18,20,22,24,26,29,31,33,36,38,42",	
+			"content_subject":"What is your personality like?(2)",
+			"english_content_text": "I am serious./<br>
+I am arrogant. /<br>
+I am talkative. /<br>
+I am shy./<br>
+I am strict./<br>
+I am sensitive./<br><br>
+
+I am rude./<br>
+I am lazy./<br>
+I am negative./<br>
+I am impatient. /<br>
+I am mean./<br>
+I am selfish./<br>
+I am stubborn./<br>
+I am bossy./<br>
+I am aggressive./<br>
+I am greedy./<br>
+I am sarcastic./<br>
+I am moody.",
+			"korean_content_text": "나는 진지합니다./<br>
+나는 거만합니다./<br>
+나는 말이 많습니다./<br>
+나는 수줍음이 많습니다./<br>
+나는 고지식합니다./<br>
+나는 예민합니다./<br><br>
+
+나는 무례합니다./<br>
+나는 게으릅니다./<br>
+나는 시끄럽습니다./<br>
+나는 부정적입니다. /<br>
+나는 참을성이 부족합니다./<br>
+나는 못됐습니다./<br>
+나는 이기적입니다./<br>
+나는 고집이 셉니다./<br>
+나는 권위적입니다. /<br>
+나는 공격적입니다. , 나는 적극적입니다. /<br>
+나는 욕심이 많습니다./<br>
+나는 냉소적입니다./<br>
+나는 기분 변화가 심한 편입니다."
+}

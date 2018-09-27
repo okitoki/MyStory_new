@@ -1,0 +1,38 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"What is your personality like?(1)",
+    "caption_kor":"긍정적인 성격 표현",
+    "cate_content_url":"personalities/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"What is your personality like?(2)",
+    "caption_kor":"중성적, 부정적인 성격 표현",
+    "cate_content_url":"personalities/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"She is a good leader.",
+    "caption_kor":"똑똑한 나의 보스, 산드라",
+    "cate_content_url":"personalities/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"He always follows the rules.",
+    "caption_kor":"진지한 나의 남동생, 잭",
+    "cate_content_url":"personalities/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"She is a people person.",
+    "caption_kor":"사람 좋아하는 친구, 앤",
+    "cate_content_url":"personalities/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"He is kind of a player.",
+    "caption_kor":"모험을 좋아하는 화가 삼촌, 밥",
+    "cate_content_url":"personalities/content6.json"
+  }
+]

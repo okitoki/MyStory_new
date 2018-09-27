@@ -1,0 +1,50 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"What is 'Korean age'?",
+    "caption_kor":"한국나이",
+    "cate_content_url":"aboutkorea2/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"What is the Korean education system like? ",
+    "caption_kor":"한국의 교육",
+    "cate_content_url":"aboutkorea2/content2.json"
+  },
+  {
+      "content_id": 3,
+      "caption_eng":"How can I get to Busan from Seoul? ",
+      "caption_kor":"한국의 대중교통",
+      "cate_content_url":"aboutkorea2/content3.json"
+    },
+    {
+      "content_id": 4,
+      "caption_eng":"Is the public transportaion convenient in Seoul? ",
+      "caption_kor":"서울의 대중교통",
+      "cate_content_url":"aboutkorea2/content4.json"
+    },
+    {
+    "content_id": 5,
+    "caption_eng":"Do you elect the president by yourself?",
+    "caption_kor":"대통령 책임제",
+    "cate_content_url":"aboutkorea2/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"What do you think about North Korea?",
+    "caption_kor":"북한과의 관계",
+    "cate_content_url":"aboutkorea2/content6.json"
+  },
+  {
+    "content_id": 7,
+    "caption_eng":"Does Korea have a national religion?",
+    "caption_kor":"종교의 자유",
+    "cate_content_url":"aboutkorea2/content7.json"
+  },
+  {
+    "content_id": 8,
+    "caption_eng":"We respect elderly people.",
+    "caption_kor":"유교의 영향",
+    "cate_content_url":"aboutkorea2/content8.json"
+  }
+]

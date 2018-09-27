@@ -1,0 +1,69 @@
+{
+			"id":2,
+			"videoURL":"sickness_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>sore &nbsp; 따가운, 아픈<br>
+throat &nbsp; 목구멍, 목<br>
+sore throat &nbsp; 인후염<br>
+hurt &nbsp; 아프다<br>
+cough &nbsp; 기침, 기침하다<br>
+sneeze &nbsp; 재채기, 재채기하다<br>
+hold &nbsp; 참다<br>
+swollen &nbsp; 부운<br>
+tonsils &nbsp; 편도선<br>
+irritate &nbsp; 짜증나다<br>
+irritated &nbsp; 짜증나는<br>
+runny nose &nbsp; 콧물<br>
+block &nbsp; 막히다<br>
+be blocked &nbsp; 막혔다<br>
+breathe &nbsp; 숨쉬다<br>
+stuffy nose &nbsp; 코막힘<br>
+blow &nbsp; 불다<br>
+blow one's(소유격) nose &nbsp; 코를 풀다<br>
+in public &nbsp; 사람들이 있는 데서<br>
+western culture &nbsp; 서양문화<br>
+earache &nbsp; 귓병<br>
+tingling &nbsp; 얼얼한<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+이상하게도 병명은 셀 수 있는 명사랍니다.
+<font color='#ea4156'>병명 앞에 a(an) 쓰는 거 잊지 마세요.</font>
+    
+",			
+			"syncInfo":"0,0,3,5,7,10,14,17,22,26,29,30,34,36,39,45,48,52",
+			"content_subject":"Ear-Nose-Throat",
+			"english_content_text": "I have a sore throat./<br>
+My throat hurts./<br>
+I have a bad cough./<br>
+I coughed all day. /<br><br>
+ 
+I sneezed all day./<br>
+I can’t hold my sneeze. /<br>
+I have a cough and swollen tonsils./<br>
+I have an irritated throat./<br><br>
+
+I have a runny nose./ <br>
+My nose is blocked./ I can't breathe well./<br>
+I have a stuffy nose./ It’s hard to breathe. /<br>
+It’s okay to blow your nose in public in western culture./ <br><br>
+
+I have an earache./<br>
+My ears are tingling.",
+			"korean_content_text": "나는 목이 아파요./<br>
+목이 아파요./<br>
+나는 기침이 심해요./<br>
+나는 하루 종일 기침했어요./<br><br>
+ 
+나는 하루 종일 재채기를 했어요./<br>
+나는 재채기를 참을 수 없어요./<br>
+나는 기침을 하고 편도선이 부었어요./<br>
+나는 목이 따끔거려요./<br><br>
+
+콧물이 나와요./<br>
+코가 막혔어요./ 숨을 잘 쉴 수가 없어요./<br>
+코가 막혔어요./ 호흡하기가 어려워요./<br>
+서양 문화에서는 사람들이 있는데서 코를 부는 것은 괜찮아요./<br><br>
+
+귀가 아파요./<br>
+귀가 얼얼해요."
+}

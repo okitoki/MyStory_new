@@ -1,0 +1,70 @@
+{
+			"id":2,
+			"videoURL":"food_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>
+    taste &nbsp; 맛이나다<br>
+bland &nbsp; 밍밍한<br>
+bitter &nbsp; 쓰다<br>
+sweet &nbsp; 달다<br>
+sour &nbsp; 시큼한, 새콤한 <br>
+tangy &nbsp; 톡 쏘는<br>
+spicy &nbsp; 매운<br>
+salty &nbsp; 짠<br>
+rich &nbsp; 진한<br>
+savory &nbsp; 짭짭할<br>
+chewy &nbsp; 쫄깃한<br>
+juicy &nbsp; 육즙이 많은<br>
+tender &nbsp; 부드러운<br>
+inside &nbsp; 안에<br>
+oily &nbsp; 기름진, 느끼한<br>
+greasy &nbsp; 기름진, 느끼한<br>
+stew &nbsp; 스튜 (고기와 채소를 넣고 국물이 좀 있게 해서 천천히 끓인 요리)<br>
+creamy &nbsp; 크림같은<br>
+soggy &nbsp; 눅눅한<br>
+stale &nbsp; 신선하지 않는<br>
+crispy &nbsp; 바삭한<br>
+crunchy &nbsp; 아삭한<br>
+fishy &nbsp; 비린내나는
+    ",			
+			"syncInfo":"0,0,3,5,8,12,16,19,22,25,28,33,36,39,43,46,49,52,55,60",	
+			"content_subject":"What does the soup taste like?",
+			"english_content_text": "The soup tastes bland./<br> 
+The beer tastes bitter. /<br> 
+The cake tastes sweet./<br>  
+The lemon juice tastes sour and tangy./<br> 
+Kimchi tastes spicy. /<br> 
+Soy sauce tastes salty. /<br> 
+This ice cream tastes rich. /<br> 
+I prefer savory than sweet./<br> 
+The rice cake is chewy. /<br><br>
+    
+The grilled steak is juicy and tender inside./<br>  
+The pasta is oily./<br> 
+The french frieds are greasy./<br> 
+The stew is creamy./<br>  
+The cereal is soggy. /<br> 
+The popcorn is stale. /<br> 
+The potato chips are crispy. /<br> 
+The cucumbers are crunchy./<br>  
+Something smells fishy here. ",
+			"korean_content_text": "그 국은 싱거워요. /<br> 
+그 맥주는 씁씁해요./<br> 
+그 케잌은 달콤해요./<br> 
+그 레몬쥬스는 시고 톡 쏴요/<br> 
+김치는 매워요./<br> 
+간장은 짜요./<br> 
+이 아이스크림은 진해요./<br> 
+나는 단것보다 짭짤한 것을 더 선호해요./<br> 
+그 떡은 쫄깃해요./<br><br> 
+    
+그 구운 스테이크는 육즙이 많고 안은 부드러워요./<br> 
+그 파스타는 느끼해요./<br> 
+그 감자튀김은 기름져요./<br> 
+그 스튜는 크림같아요./<br> 
+그 시리얼은 눅눅해요./<br> 
+그 팝콘은 신선하지 않아요./<br> 
+그 감자칩은 바삭해요./<br> 
+그 오이(복수)는 아삭해요./<br> 
+여기 뭔가 비린내가 나요."
+}

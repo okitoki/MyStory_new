@@ -1,0 +1,57 @@
+{
+			"id":4,
+			"videoURL":"travel_04",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    주문할 때는 공손한 의미가 있는 'I'd lik...', 'Can I have ...' 또는 'Please.'를 쓰세요.",			
+			"syncInfo":"0,0,2,4,6",	
+			"content_subject":"Are you ready to order?",
+			"english_content_text": "<b>Staff</b></><br> 
+What would you like? </><br>
+Are you ready to order? </><br>
+What can I get for you? </><br><br>
+
+<b>Customer</b><br>
+- One cappuccino, please. </><br>
+- I’d like one cappuccino.</><br>
+Can I have one cappuccino? </><br>
+I’ll have one cappuccino, please. </><br><br>
+
+Staff: Would you like anything else? </><br>
+Customer: No, thanks. </><br><br>
+
+Staff: Is that all? </><br>
+Customor: Yes, that’s all. Thanks.</><br><br>
+
+Staff: It’s 5.25. </><br>
+       It’s 5 dollars 25 cents.</><br>
+Customer: Do you accept visa card? </><br>
+Staff: Yes, we do. </><br>
+Customer: Can I have the receipt, please?</><br>
+Staff: Sure, here you are.</><br>
+Customer: Thanks. (added)",
+			"korean_content_text": "<b>점원</b></><br> 
+뭐 드릴까요?</><br> 
+주문 하시겠어요? </><br>
+어떤 걸로 하시겠어요?</><br><br>
+
+<b>손님</b><br>
+카푸치노 한 잔 주세요.</><br>
+카푸치노 한 잔 주세요.</><br>
+카푸치노 한 잔 주세요.</><br>
+카푸치노 한 잔 주세요.</><br><br>
+
+점원: 더 필요하신 것은 없으세요? </><br>
+손님: 없어요. 고맙습니다. </><br><br>
+
+점원: 이게 다예요? </><br>
+손님: 네, 그게 다예요. 고맙습니다. </><br><br>
+
+점원: 5 달러 25센트 입니다.  </><br>
+     5 달러 25센트 입니다. </><br>
+손님: 비자카느 받으세요? </><br>
+점원: 네.</><br>
+손님: 영수증 받을 수 있을까?  </><br>
+점원: 문론이죠. 여기 있습니다. </><br>
+손님: 고맙습니다.  (추가)"
+}

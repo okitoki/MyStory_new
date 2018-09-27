@@ -1,0 +1,56 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Head",
+    "caption_kor":"머리",
+    "cate_content_url":"sickness/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"Ear-Nose-Throat",
+    "caption_kor":"귀 - 코 - 목",
+    "cate_content_url":"sickness/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Dentist",
+    "caption_kor":"치과",
+    "cate_content_url":"sickness/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"Chest",
+    "caption_kor":"가슴 ",
+    "cate_content_url":"sickness/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"Waist and back",
+    "caption_kor":"허리와 등",
+    "cate_content_url":"sickness/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"Legs and feet",
+    "caption_kor":"발과 다리",
+    "cate_content_url":"sickness/content6.json"
+  },
+    {
+      "content_id": 7,
+      "caption_eng":"I need to go to the bathroom.",
+      "caption_kor":"화장실 관련",
+      "cate_content_url":"sickness/content7.json"
+    },
+    {
+      "content_id": 8,
+      "caption_eng":"I have a hangover.",
+      "caption_kor":"그외 통증 관련 표현",
+      "cate_content_url":"sickness/content8.json"
+    },
+    {
+      "content_id": 9,
+      "caption_eng":"Can you call the ambulance?",
+      "caption_kor":"구급차를 불러주세요. ",
+      "cate_content_url":"sickness/content9.json"
+    }
+  ]

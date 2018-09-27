@@ -1,0 +1,49 @@
+{
+			"id":3,
+			"videoURL":"sickness_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>wisdom teeth &nbsp; 사랑니<br>
+pull out &nbsp; 빼다<br>
+cavity &nbsp; 충치<br>
+loose tooth &nbsp; 흔들리는 치아<br>
+gum &nbsp; 잇몸<br>
+swollen &nbsp; 부운<br>
+throbbing &nbsp; 쑤시는<br>
+toothache &nbsp; 치통<br>
+sensitive &nbsp; 예민한<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+
+'tooth' 이 1개 (단수)<br>
+'teeth' 이 2개 이상 (복수)<br><br>
+
+'My gums are swollen.' (항상 복수)<br><br>
+
+'이가 시리다'라는 표현은 따로 없고 'I have sensitive teeth.'라고 하면 됩니다.
+    
+",		
+			"syncInfo":"0,0,3,7,10,16,19,23,27,29,32,35,39",
+			"content_subject":"Dentist",
+			"english_content_text": "My wisdom teeth came out./ <br>
+I had my wisdom teeth removed. / <br>
+I got my wisdom teeth pulled out./ <br>
+I have a cavity. (I have cavities.)/ <br>
+I got my cavity filled. / <br><br>
+    
+I have a loose tooth. / <br>
+One of my teeth in the back hurts./ <br>
+My gums are swollen. / <br>
+I have a throbbing toothache. / <br>
+I have sensitive teeth. I can’t drink cold water.",
+			"korean_content_text": "사랑니가 났어요./ <br>
+사랑니를 뺐어요./ <br>
+사랑니를 뺐어요./ <br>
+충치가 있어요. / <br>
+충치를 떼웠어요. / <br><br>
+
+치아가 흔들려요./ <br>
+안쪽에 있는 치아 중에 하나가 아파요./ <br>
+잇몸이 부었어요./ <br>
+이가 욱신거려요./ <br>
+치아가 예민해요. 차가운 물을 마실 수가 없어요."
+}

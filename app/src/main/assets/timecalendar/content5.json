@@ -1,0 +1,69 @@
+{
+			"id":5,
+			"videoURL":"timecalendar_05",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>working hours &nbsp; 근무시간<br>
+get &nbsp; 도착하다<br>
+flight &nbsp; 비행기<br>
+fly&nbsp ; 날다, 비행기타다<br>
+be born &nbsp; 태어나다<br>
+due &nbsp; 예정일
+<br><br>
+<h3><font color='#ea4156'><u>Tips</u></font></h3><font color='#ea4156'>
+
+<font color='#ea4156'>'출근하다' / '퇴근하다'는 표현은 따로 없고 'start work' / 'finish work'라고 합니다.</font>
+    ",			
+			"syncInfo":"0,0,1,6,8,14,16,20,23,28,31,35,38,43,46,50,53,57,60,65",	
+			"content_subject":"Questions and Answers",
+			"english_content_text": "Q: What are your working hours? /<br>
+A: My working hours are from 9 to 6./<br>    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I work from 9 to 6. / <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I start work at 9 and finish work at 6./<br><br>
+
+Q: How many hours do you work? /<br>
+A: I work 8 hours a day. /<br><br>
+
+Q: What time do you get to work? /<br>
+A: I try to get to work by 8:45. /<br><br>
+
+Q: When is your flight to Spain? /<br>
+A: My flight is on the 14th of July. /<br><br>
+
+Q: When are you flying to Spain?/<br>
+A: I’m flying on the 14th of July./<br><br>
+
+Q: What time is your flight? /<br>
+A: My flight is at 8:30pm./<br><br>
+
+Q: Which year were you born? /<br>
+A: I was born in 1990./<br><br>
+
+Q: When is your baby due?/<br>
+A: My baby is due on February 23rd.",
+			"korean_content_text": "Q: 근무시간은 어떻게 되나요?/<br>
+A: 근무시간은 9시부터 6시까지예요./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9시부터 6시까지 일해요./<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9시에 일을 시작하고 6시에 끝납니다./<br><br>
+
+Q: 얼마 동안 일을 하나요?/<br>
+A: 8시간 일해요./<br><br>
+
+Q: 몇 시에 회사에 도착하나요?/<br>
+A: 8시 45분까지 회사에 도착하려고 노력합니다./<br><br>
+
+
+Q: 스페인 언제가요? (스페인으로 가는 비행기는 언제입니까?)/<br>
+A: 6월 14일입니다./<br><br>
+
+Q: 스페인 언제가요?/ (언제 스페인으로 날아가요?)<br>
+A: 6월 14일입니다./<br><br>
+
+Q: 몇 시 비행기예요?/<br>
+A: 오후 8시 30분입니다./<br><br>
+
+Q: 몇 년도에 태어났어요?/<br>
+A: 1990년입니다./<br><br>
+
+Q: 출산예정일이 언제에요?/<br>
+A: 2월 23일입니다."
+}

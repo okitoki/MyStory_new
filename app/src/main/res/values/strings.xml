@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">어른영어</string>
+    <string name="list_fragment_settingbutton">setting</string>
+    <string name="list_fragment_backbutton">back</string>
+    <string name="list_fragment_titl_mycategory">my category</string>
+    <string name="list_fragment_titl_myactivity">my activity</string>
+    <!--listFragment -->
+    <string name="gate_fragment_title">My Story Speaking Drill</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank1_fragment">Hello blank1 fragment</string>
+    <string name="hello_blank2_fragment">Hello blank2 fragment</string>
+    <string name="hello_blank3_fragment">Hello blank3 fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--alert dialog String-->
+    <string name="alert_dialog_title">title</string>
+
+    <!--setting-->
+    <string name="setting_title">Setting</string>
+    <string name="setting_title_autoplay">카테고리내에 있는 모든 에피소드 연속재생</string>
+    <string name="setting_title_myavatar">나의 아바타 </string>
+    <string name="setting_title_version_info">버전정보</string>
+    <string name="setting_content_info">학습내용은 주관적일 수 있습니다. \n사용자 개인과 의견이 다를 수 있음을 알려드립니다. \n영어로 말하기 연습을 위한 것임을 알려드립니다.</string>
+    <string name="setting_content_version_info">현재버전 1.0 </string>
+    <string name="setting_alex">Alex</string>
+    <string name="setting_me">Me</string>
+
+    <!--My station-->
+    <string name="mystation_title">My station</string>
+    <string name="mystation_alexListening">Alex-Listening</string>
+    <string name="mystation_meRecording">Alex-Recording</string>
+
+    <!--alert recording-->
+    <string name="playcardfragment_norecordingfile">녹음된 파일이 없습니다. 녹음을 먼저 해 주세요.</string>
+    <string name="playactivity_first_unit">카테고리의 첫번째 에피소드입니다.</string>
+    <string name="playactivity_last_unit">카테고리의 마지막 에피소드입니다.</string>
+    <string name="recording_save">파일을 저장하시겠습니까?</string>
+    <string name="record_file_del">녹음파일이 삭제되었습니다.</string>
+    <string name="record_file_save">녹음파일이 저장되었습니다.</string>
+
+    <!--fighting string-->
+    <string name="fighting_left_txt1">Are you</string>
+    <string name="fighting_left_txt2">Good</string>
+    <string name="fighting_left_txt3">Well</string>
+    <string name="fighting_left_txt4">Keep</string>
+    <string name="fighting_left_txt5">You are</string>
+    <string name="fighting_left_txt6">You are</string>
+    <string name="fighting_left_txt7">You are</string>
+    <string name="fighting_left_txt8">You are</string>
+
+    <string name="fighting_right_txt1">ready?</string>
+    <string name="fighting_right_txt2">start!</string>
+    <string name="fighting_right_txt3">done!</string>
+    <string name="fighting_right_txt4">going!</string>
+    <string name="fighting_right_txt5">great!</string>
+    <string name="fighting_right_txt6">ammaing!</string>
+    <string name="fighting_right_txt7">the best!</string>
+    <string name="fighting_right_txt8">fantastic!</string>
+
+    <string name="splash_personali_link">계속하면 이 앱의 개인정보보정책에 동의하는 것으로 간주됩니다.</string>
+    <string name="splash_personali_info"><u>개인정보처리방침.</u></string>
+
+    <string name="setting_txt1">학습 내용은 사용자 개인과 의견이 다를 수 있습니다. \n영어로 말하기 연습을 위한 스크립트임을 알려드립니다.</string>
+    <string name="setting_txt2"><u>개인정보처리방침.</u></string>
+    <!-- player -->
+    <string name="card_subject_text">How do you do befor going to the bed</string>
+    <string name="recordfilename_text">R01-02-001</string>
+
+    <!--Toast Message-->
+    <string name="toast_message_txt1">무료 버전에서는 제공되지 않습니다.</string>
+
+    <!--list index category title txt-->
+    <string name="cate_basic_title">필수</string>
+    <string name="cate_daily_title">일상</string>
+    <string name="cate_people_title">사람</string>
+    <string name="cate_travel_title">여행</string>
+    <string name="cate_issu_title">이슈</string>
+    <string name="cate_country_title">한국</string>
+
+    <!--Basic-->
+    <string name="cate_basic_greeting_title">Greeting</string>
+    <string name="cate_basic_pronounciation_title">Pronounciation</string>
+
+    <!--Daily Life-->
+    <string name="cate_daily_daily_title">Daily</string>
+    <string name="cate_daily_food_title">Food</string>
+    <string name="cate_daily_doing_title">Doing</string>
+    <string name="cate_daily_weather_title">Weather</string>
+
+    <!--People-->
+    <string name="cate_people_personalities_title">Personalities</string>
+    <string name="cate_people_appearance_title">Appearance</string>
+    <string name="cate_people_sickness_title">Sickness</string>
+
+    <!--Travel-->
+    <string name="cate_travel_travel_title">Travel</string>
+    <string name="cate_travel_direction_title">Directions</string>
+    <string name="cate_travel_timecalendar_title">Time &amp; Calendar</string>
+    <string name="cate_travel_numbermoney_title">Numbers &amp; Money</string>
+
+    <!--Iessu-->
+    <string name="cate_iessu_lifestyle_title">Life Style</string>
+    <string name="cate_iessu_environment_title">Environment</string>
+
+    <!--Korea-->
+    <string name="cate_korea_korea1_title">Korea1</string>
+    <string name="cate_korea_korea2_title">Korea2</string>
+
+</resources>

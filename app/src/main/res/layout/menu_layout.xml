@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/iv_left"
+            android:layout_width="107dip"
+            android:layout_height="fill_parent"
+            android:background="#000000"
+            android:src="@drawable/avataaar1"
+            android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/default_gesture"
+        android:layout_width="107dip"
+        android:layout_height="fill_parent"
+        android:background="#C0E0FF"
+        android:src="@drawable/avataaar7" />
+
+    <ImageView
+        android:id="@+id/custom_gesture"
+        android:layout_width="107dip"
+        android:layout_height="fill_parent"
+        android:background="#F0C0FF"
+        android:src="@drawable/avataaar4" />
+
+    <ImageView
+        android:id="@+id/custom_gesture2"
+        android:layout_width="107dip"
+        android:layout_height="fill_parent"
+        android:background="#F0F050"
+        android:src="@drawable/avataaar6" />
+
+    <ImageView
+        android:id="@+id/custom_gesture3"
+        android:layout_width="107dip"
+        android:layout_height="fill_parent"
+        android:background="#50F050"
+        android:src="@drawable/avataaar8" />
+        <ImageView
+            android:id="@+id/iv_right"
+            android:layout_width="107dip"
+            android:layout_height="fill_parent"
+            android:background="#000000"
+            android:src="@drawable/avataaar5"
+            android:visibility="invisible" />        
+    </LinearLayout>

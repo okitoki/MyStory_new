@@ -1,0 +1,61 @@
+{
+			"id":2,
+			"videoURL":"travel_02",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>take  (교통수단을) 타다<br>
+stop  정거장<br>
+exit  출구<br>
+book  예약하다<br>
+I'd like to A(동사)  A를 하고 싶습니다 (공손한 표현)<br>
+quickest  가장빠른<br>
+route  길<br>
+Keep the change  잔돈은 안 주셔도 됩니다",			
+			"syncInfo":"0,0,4,9,14,19,23,28,30,33,38,43,49,53,58,62,66,70,74,77",	
+			"content_subject":"How can I get to Changdeok Palace?",
+			"english_content_text": "(Bus)<br>
+- Where can I take a bus to Changdeok Palace?/<br>
+- What is the bus number to Changdeok Palace? /<br>
+- Where can I take bus number 253?/<br> 
+- How many stops are there from here to Changdeok Palace? /<br>
+- How many stops are there until Changdeok Palace? /<br>
+- What is the next stop? /<br>
+- Where are we now? /<br><br>
+
+(Subway)<br>
+- Where can I get the subway ticket? /<br>
+- How much is it from here to Changdeok Palace? /<br>
+- Which exit do I have to take to go to Changdeok Palace? /<br>
+- What time is the last subway to Changdeok Palace? /<br><br>
+
+(Taxi)<br>
+- May I book a taxi at 7:30 tomorrow morning? /<br>
+- Can you send the taxi to Seoul Hotel? /<br>
+- Can you take me to Changdeok Palace? /<br>
+- I'd like to go to Changdeok Palace./<br>
+- How much will it cost to Changdeok Palace? /<br>
+- I’m in a hurry, can you take the quickest route, please? /<br>
+- Keep the change. ",
+			"korean_content_text": "(버스)<br>
+- 창덕궁 가는 버스는 어디에서 타나요?/<br>
+- 창덕궁 가는 버스는 몇 번인가요?/<br>
+- 253번 버스는 어디에서 타나요?/<br>
+- 여기에서 창덕궁까지 몇 정거장입니까?/<br>
+- 창덕궁까지 몇 정거장 남았나요?/<br>
+- 다음 정거장은 어디죠?/<br>
+- 여기 지금 어디예요?/<br><br>
+
+(지하철)<br>
+- 지하철 티켓은 어디에서 살 수 있나요?/<br>
+- 여기에서 창덕궁까지 얼마죠?/<br>
+- 창덕궁으로 가려면 몇번 출구로 나가야 하나요?/<br>
+- 창덕궁 가는 지하철 막차는 몇 시인가요?/<br><br>
+
+(택시)<br>
+- 내일 아침 7시 30분에 택시를 예약할 수 있을까요?/<br>
+- 서울호텔로 택시를 보내주세요./<br>
+- 창덕궁까지 데려다 주세요./<br>
+- 창덕궁까기 가주세요./<br>
+- 창덕궁까지 요금이 얼마인가요?/<br>
+- 급해서 그러는데, 가장 빠른 길로 가 주시겠어요?/<br>
+- 거스름돈은 안 주셔도 괜찮습니다."
+}

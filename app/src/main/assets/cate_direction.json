@@ -1,0 +1,32 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Can I ask you something?",
+    "caption_kor":"정확하게 길 안내",
+    "cate_content_url":"direction/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"How can I get there?",
+    "caption_kor":"길 설명 필수 동사",
+    "cate_content_url":"direction/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Where is it?",
+    "caption_kor":"목적지 위치",
+    "cate_content_url":"direction/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"How long does it take?",
+    "caption_kor":"시간이 걸리다의 동사는 'take'",
+    "cate_content_url":"direction/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"Are you new here?",
+    "caption_kor":"나도 낯설어서 안내해주지 못할 때",
+    "cate_content_url":"direction/content5.json"
+  }
+]

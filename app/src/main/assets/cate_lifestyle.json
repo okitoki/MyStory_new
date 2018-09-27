@@ -1,0 +1,20 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Are you enjoying urban life?",
+    "caption_kor":"도시 생활",
+    "cate_content_url":"lifestyle/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"What is your rural life like?",
+    "caption_kor":"전원 생활",
+    "cate_content_url":"lifestyle/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Are you a minimalist?",
+    "caption_kor":"미니멀리스트",
+    "cate_content_url":"lifestyle/content3.json"
+  }
+]

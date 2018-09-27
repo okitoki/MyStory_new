@@ -1,0 +1,34 @@
+{
+			"id":1,
+			"videoURL":"doingchores_01",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>dust &nbsp; 먼지<br>
+dust off &nbsp; 먼지를 털다 <br>
+light &nbsp; 전등<br>
+feather duster &nbsp; 먼지떨이<br>
+sweep &nbsp; 쓸다<br>
+broom &nbsp; 빗자루 <br>
+dustpan &nbsp; 쓰레받기<br>
+sweep into a dustpan &nbsp; 쓰레받기에 쓸어 담다  <br>
+debris &nbsp; 작은 쓰레기<br>
+vacuum &nbsp; 청소기, 청소기를 돌리다<br>
+mop &nbsp; 물걸레, 물걸레질하다<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+
+방법을 알려주는 명령문이에요. <br><br>
+
+<font color='#ea4156'>설명을 할 때는 주어를 쓰지않고 동사부터 말해야 한다는 점 기억하세요.</font>",				
+			"syncInfo":"0,0,2,6,11,18,23",	
+			"content_subject":"Cleaning the house",
+			"english_content_text": "1. Open the windows.<br>
+/2. Put things in the right places.<br>
+/3. Dust off the walls and the lights with a feather duster.<br>
+/4. Sweep the floor with a broom and sweep the debris into a dustpan or vacuum the floor.<br>
+/5. Mop the floor.<br>",
+			"korean_content_text": "1. 창을 엽니다.<br>
+/2. 물건을 제자리에 두세요.<br>
+/3. 먼지떨이로 벽과 전등의 먼지를 털어 내십시오.<br>
+/4. 빗자루로 바닥을 쓸고 쓰레받기로 먼지를 쓸어담거나 청소기를 돌리세요.<br>
+/5. 물걸레질하세요.<br>"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Head",
+    "caption_kor":"머리",
+    "cate_content_url":"appearance/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"Upper body",
+    "caption_kor":"상반신 ",
+    "cate_content_url":"appearance/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Lower body",
+    "caption_kor":"하반신 ",
+    "cate_content_url":"appearance/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"He is in good shape.",
+    "caption_kor":"체형 ",
+    "cate_content_url":"appearance/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"You look great today. ",
+    "caption_kor":"외모 칭찬 ",
+    "cate_content_url":"appearance/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"I need to fix my make-up.",
+    "caption_kor":"피부유형 및 상태 그리고 화장 ",
+    "cate_content_url":"appearance/content6.json"
+  },
+    {
+      "content_id": 7,
+      "caption_eng":"It is in vogue.",
+      "caption_kor":"패션, 스타일",
+      "cate_content_url":"appearance/content7.json"
+    }
+]

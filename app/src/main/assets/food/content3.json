@@ -1,0 +1,61 @@
+{
+			"id":3,
+			"videoURL":"food_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>
+yummy &nbsp; 맛있는 <br>
+tasty &nbsp; 맛있는 <br>
+eatable &nbsp; 먹을만한 <br>
+awful &nbsp; 끔찍한 <br>
+terrible &nbsp; 끔찍한 
+<br><br>
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+
+'It's delicious.'는 '맛있다'의 의미보다는 음식을 만들거나 대접해 준 사람에게 감사의 표현을 할 때 'Thank you. It was very delicious.' 이런 식으로 '맛있게 잘 먹었습니다.'의 의미로 쓰여요.
+<br><br>
+<font color='#ea4156'>음식을 먹으면서 '맛있다.' 이렇게 얘기할 때는 'It's good.', 'It's great.' 이라고 하세요. </font>
+    ",			
+			"syncInfo":"0,0,2,3,6,8,11,13,15,17,19,20,23,25,28,30,33,35,37,39,42",
+			"content_subject":"How is your meal?",
+			"english_content_text": "This is good./<br> 
+This is really good. /<br>
+This is great./<br>
+This is wonderful. /<br>
+This is fantastic./<br>
+It's yummy. /<br>
+It's tasty. /<br>
+It's flavorful /<br><br>
+
+It's ok./<br>
+It's not bad./<br>
+It's not too bad./<br>
+It's eatable./<br><br>
+    
+This is bad. / <br>
+It's not tasty./<br>
+It doesn't taste very good./<br>
+It's not that great./<br>
+It's too heavy./<br>
+It's awful. /<br>
+It's terrible./<br>",
+			"korean_content_text": "좋네요./<br>
+정말 좋네요. /<br>
+굉장하네요./<br>
+훌륭하네요. /<br>
+환상이네요./<br>
+맛있어요. /<br>
+맛나요. /<br>
+풍미가 있어요. /<br><br>
+
+괜찮아요./<br>
+나쁘지 않네요. /<br>
+그렇게 나쁘지는 않아요./<br>
+먹을만해요./<br><br>
+
+맛 없어요. /<br>
+맛 없어요. /<br>
+맛이 매우 좋지는 않네요./<br>
+그렇게 훌륭하지는 않네요. /<br>
+너무 부담돼요./<br>
+끔찍해요."
+}

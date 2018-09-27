@@ -1,0 +1,38 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Korea has four distinct seasons.",
+    "caption_kor":"뚜렷한 한국의 사계절",
+    "cate_content_url":"weather/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"Spring is sunny and warm",
+    "caption_kor":"봄",
+    "cate_content_url":"weather/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Summer is muggy and humid.",
+    "caption_kor":"여름",
+    "cate_content_url":"weather/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"Autumn is cool and crisp.",
+    "caption_kor":"가을",
+    "cate_content_url":"weather/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"Winter is long and cold.",
+    "caption_kor":"겨울",
+    "cate_content_url":"weather/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"Let's practice",
+    "caption_kor":"그외 날씨 관련 표현",
+    "cate_content_url":"weather/content6.json"
+  }
+]

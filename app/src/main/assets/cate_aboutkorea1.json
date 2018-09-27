@@ -1,0 +1,44 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Where is Korea located?",
+    "caption_kor":"한국의 위치",
+    "cate_content_url":"aboutkorea1/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"Why is Hangul so special?",
+    "caption_kor":"특별한 언어, 한글",
+    "cate_content_url":"aboutkorea1/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"What’s the population of Korea?",
+    "caption_kor":"한국의 인구",
+    "cate_content_url":"aboutkorea1/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"What's the capital of South Korea?",
+    "caption_kor":"한국의 수도",
+    "cate_content_url":"aboutkorea1/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"Can you tell me about “Taegukgi”?",
+    "caption_kor":"태극기",
+    "cate_content_url":"aboutkorea1/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"What are Korean people like? ",
+    "caption_kor":"한국인의 특징",
+    "cate_content_url":"aboutkorea1/content6.json"
+  },
+    {
+      "content_id": 7,
+      "caption_eng":"Are Koreans hard-working people? ",
+      "caption_kor":"부지런한 한국인",
+      "cate_content_url":"aboutkorea1/content7.json"
+    }
+]

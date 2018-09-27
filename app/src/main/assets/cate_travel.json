@@ -1,0 +1,38 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"I have jet lag.",
+    "caption_kor":"시차적응",
+    "cate_content_url":"travel/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"How can I get to Changdeok Palace?",
+    "caption_kor":"대중교통 관련 질문",
+    "cate_content_url":"travel/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"I’d like to make a reservation.",
+    "caption_kor":"예약",
+    "cate_content_url":"travel/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"Are you ready to order?",
+    "caption_kor":"주문",
+    "cate_content_url":"travel/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"You should definitely try soju.",
+    "caption_kor":"의견을 묻거나 제안할 때는 'should'",
+    "cate_content_url":"travel/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"Let’s keep in touch.",
+    "caption_kor":"여행에서 만나고 헤어질 때",
+    "cate_content_url":"travel/content6.json"
+  }
+]

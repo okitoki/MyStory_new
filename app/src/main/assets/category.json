@@ -1,0 +1,165 @@
+
+   [  
+      {  
+         "cate_id":1,
+         "caption_eng":"Greetings",
+         "caption_kor":"영어로 인사 제대로 하기",
+         "image_url":"cate1_img",
+         "image_big_url":"list_cate1",
+         "cate_detailfile_url":"cate_greeting.json",
+         "unit_number":8
+      },
+      {  
+         "cate_id":2,
+         "caption_eng":"Pronounciations",
+         "caption_kor":"알파벳부터 정확하게 발음하기",
+         "image_url":"cate2_img",
+         "image_big_url":"list_cate2",
+         "cate_detailfile_url":"cate_pronounciation.json",
+         "unit_number":4
+      },
+      {  
+         "cate_id":3,
+         "caption_eng":"Daily ",
+         "caption_kor":"반복되는 일상 표현 자세히 보기",
+         "image_url":"cate3_img",
+         "image_big_url":"list_cate3",
+         "cate_detailfile_url":"cate_daily.json",
+         "unit_number":7
+      },
+      {  
+         "cate_id":4,
+         "caption_eng":"Doing Chores",
+         "caption_kor":"집안일에 사용하는 동사 익히기",
+         "image_url":"cate4_img",
+         "image_big_url":"list_cate4",
+         "cate_detailfile_url":"cate_doing_chores.json",
+         "unit_number":4
+      },
+      {  
+         "cate_id":5,
+         "caption_eng":"Food",
+         "caption_kor":"다양한 형용사로 맛 표현하기",
+         "image_url":"cate5_img",
+         "image_big_url":"list_cate5",
+         "cate_detailfile_url":"cate_food.json",
+         "unit_number":7
+      },
+      {  
+         "cate_id":6,
+         "caption_eng":"Weather",
+         "caption_kor":"한국의 날씨를 다양한 형용사로 표현하기",
+         "image_url":"cate6_img",
+         "image_big_url":"list_cate6",
+         "cate_detailfile_url":"cate_weather.json",
+         "unit_number":6
+      },
+      {  
+         "cate_id":7,
+         "caption_eng":"Sickness",
+         "caption_kor":"통증에 대한 명사 익히기",
+         "image_url":"cate7_img",
+         "image_big_url":"list_cate7",
+         "cate_detailfile_url":"cate_sickness.json",
+         "unit_number":9
+      },
+      {  
+         "cate_id":8,
+         "caption_eng":"Appearance",
+         "caption_kor":"신체부위 관련 명사 및 외모 표현 익히기",
+         "image_url":"cate8_img",
+         "image_big_url":"list_cate8",
+         "cate_detailfile_url":"cate_appearance.json",
+         "unit_number":7
+      },
+      {  
+         "cate_id":9,
+         "caption_eng":"Personalities",
+         "caption_kor":"셩격 관련 형용사 알아보기",
+         "image_url":"cate9_img",
+         "image_big_url":"list_cate9",
+         "cate_detailfile_url":"cate_personalities.json",
+         "unit_number":6
+      },
+      {  
+         "cate_id":10,
+         "caption_eng":"Time & Calendar",
+         "caption_kor":"시간, 날짜, 요일의 주어는 'it'",
+         "image_url":"cate10_img",
+         "image_big_url":"list_cate10",
+         "cate_detailfile_url":"cate_timecalendar.json",
+         "unit_number":5
+      },
+      {  
+         "cate_id":11,
+         "caption_eng":"Number & Money",
+         "caption_kor":"일부터 억까지 세어보기 ★★",
+         "image_url":"cate11_img",
+         "image_big_url":"list_cate11",
+         "cate_detailfile_url":"cate_numbermoney.json",
+         "unit_number":6
+      },
+      {  
+         "cate_id":12,
+         "caption_eng":"Directions",
+         "caption_kor":"외국인에게 정확하게 길 안내하기",
+         "image_url":"cate12_img",
+         "image_big_url":"list_cate12",
+         "cate_detailfile_url":"cate_direction.json",
+         "unit_number":5
+      },
+      {  
+         "cate_id":13,
+         "caption_eng":"Travel",
+         "caption_kor":"여행 필수 표현 익히기",
+         "image_url":"cate13_img",
+         "image_big_url":"list_cate13",
+         "cate_detailfile_url":"cate_travel.json",
+         "unit_number":6
+      },
+      {  
+         "cate_id":14,
+         "caption_eng":"About Korea 1",
+         "caption_kor":"한국에 대해 설명하기 1",
+         "image_url":"cate14_img",
+         "image_big_url":"list_cate14",
+         "cate_detailfile_url":"cate_aboutkorea1.json",
+         "unit_number":7
+      },
+      {  
+         "cate_id":15,
+         "caption_eng":"About Korea 2",
+         "caption_kor":"한국에 대해 설명하기 2",
+         "image_url":"cate15_img",
+         "image_big_url":"list_cate15",
+         "cate_detailfile_url":"cate_aboutkorea2.json",
+         "unit_number":8
+      },
+      {  
+         "cate_id":16,
+         "caption_eng":"Lifestyle",
+         "caption_kor":"선호하는 라이프 스타일 찾기",
+         "image_url":"cate16_img",
+         "image_big_url":"list_cate16",
+         "cate_detailfile_url":"cate_lifestyle.json",
+         "unit_number":3
+      },
+      {  
+         "cate_id":17,
+         "caption_eng":"Environment",
+         "caption_kor":"환경을 위해 우리가 할 수 있는 일 말해보기",
+         "image_url":"cate17_img",
+         "image_big_url":"list_cate17",
+         "cate_detailfile_url":"cate_environment.json",
+         "unit_number":4
+      },
+      {  
+         "cate_id":18,
+         "caption_eng":"Quotations",
+         "caption_kor":"사람들에게 영향을 준 인용문 맛보기",
+         "image_url":"cate18_img",
+         "image_big_url":"list_cate18",
+         "cate_detailfile_url":"cate_quotation.json",
+         "unit_number":6
+      }
+   ]

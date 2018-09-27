@@ -1,0 +1,38 @@
+{
+			"id":7,
+			"videoURL":"sickness_07",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Vocabularies</u></font></h3>vomit &nbsp; 토하다<br>
+throw up &nbsp; 토하다<br>
+diarrhea &nbsp; 설사<br>
+constipation &nbsp; 변비<br>
+bloated &nbsp; 부운, 배가 더부룩한 <br>
+pee &nbsp; 소변<br>
+hold &nbsp; 잡다, 참다<br><br>
+
+<h3><font color='#ea4156'><u>Tips</u></font></h3>
+<font color='#ea4156'>'I need to pee.'는 '오줌마려워요.'라는 의미로 어른들은 잘 안 쓰고 아이들이 쓰는 표현이에요. </font><br><br>
+
+성인이라면 'I need to go to the bathroom.' 또는 'I need to wash my hands'라고 하고 화장실을 가세요. 
+",		
+			"syncInfo":"0,0,3,6,9,12,16,20,22,25,28",	
+			"content_subject":" I need to go to the bathroom.",
+			"english_content_text": "I feel like vomiting. (I feel like throwing up.)/<br>
+I have diarrhea./<br>
+I have constipation./<br>
+I feel bloated./<br><br>
+
+I need to go to the bathroom. /<br>
+I need to pee. /<br>
+I can't hold it in. /<br>
+Can you hold it in? ",
+			"korean_content_text": "토할 것 같아요. /<br>
+설사해요./<br>
+변비가 있어요./<br>
+배가 더부룩해요./<br><br>
+
+나는 화장실에 가야해요./<br>
+오줌마려워요. /<br>
+못 참겠어요./<br>
+참을 수 있어요? "
+}

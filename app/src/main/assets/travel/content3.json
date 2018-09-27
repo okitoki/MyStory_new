@@ -1,0 +1,55 @@
+{
+			"id":3,
+			"videoURL":"travel_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>예약 할때 또는 주문을 할 때는 공손한 푠현을 쓰세요. <br><br>
+
+<font color='#ea4156'>많이 실 수 하는 것이 'I want...'를 쓰는 것입니다.' want'는 부탁할 때 쓰는 표현이 아닌 본인이 원하는 것을 전달할 때 쓰입니다. </font><br><br>
+
+예를 들어, 'I am hungry. I want to eat something.' 과 같이 본인의 지금 상태를 전하는 의미입니다. <br><br>
+
+주문을 하는 상황이라면 'I'd like ...'나 'Can I ...'를 써야 공손합니다.<br><br>
+    
+주문자 이름을 얘기할 때 '00라는 이름으로'은 'under the name 00' 라고  하면 돼요.
+    ",			
+			"syncInfo":"0,0,7,11,15,18,21,23,26,29,32,40,43,50,55,58,62,66,71,75",	
+			"content_subject":"I’d like to make a reservation.",
+			"english_content_text": "Manager: Hi, good afternoon. This is Lemon restaurant. How can I help you? /<br>
+Customer: I’d like to make a reservation for tomorrow evening. /<br>
+Manager: Sure. What time is your reservation? /<br>
+Customer: It’s tomorrow evening at 7. /<br>
+Manager: How many people are there in your group? /<br>
+Customer: There will be 3./<br>
+Manager: Okay, can I have your name, please? /<br>
+Customer: I’m Ji-Eun Park. /<br>
+Manager: Could you spell your name, please? /<br>
+Customer: It’s J I E U N and P A R K. /<br>
+Manager: What’s your contact number, please? /<br>
+Customer: It’s 01012340011./<br>
+Manager: We reserved your table for 3 for 7pm tomorrow./<br>
+Customer: Great, thank you. /<br>
+Manager: Thank you very much. I will see you tomorrow. /<br><br>
+    
+Manager: Hi, good evening. /<br>
+Customer: Hi, I’ve made a reservation under the name Ji-Eun Park.  /<br>
+Manager: Okay, follow me, please. ",
+			"korean_content_text": "Manager: 안녕하세요. 레몬식당입니다. 무엇을 도와드릴까요?/<br>
+Customer: 내일 저녁 예약을 하고 싶은데요. /<br>
+Manager: 물론이죠. 몇 시에 예약하고 싶으세요? /<br>
+Customer: 내일 저녁 7시에요. /<br>
+Manager: 일행은 몇 분이세요? /<br>
+Customer: 3명입니다./<br>
+Manager: 알겠습니다. 성함이 어떻게 되시죠?/<br>
+Customer: 박지은입니다. /<br>
+Manager: 철자를 알려주시겠어요? /<br>
+Customer: J I E U N 그리고 P A R K 입니다. /<br>
+Manager: 연락처는 어떻게 되시나요? /<br>
+Customer: 01012340011입니다./<br>
+Manager: 내일 저녁 7시에 세 분 테이블을 예약했습니다./<br>
+Customer: 고맙습니다. /<br>
+Manager: 감사합니다. 내일 뵙겠습니다. /<br><br>
+    
+Manager: 안녕하세요. /<br>
+Customer: 안녕하세요. 박지은으로 예약을 했습니다. /<br>
+Manager: 네, 이쪽으로 오세요. "
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "content_id": 1,
+    "caption_eng":"Nelson Mandela",
+    "caption_kor":"넬슨 만델라",
+    "cate_content_url":"quotation/content1.json"
+  },
+  {
+    "content_id": 2,
+    "caption_eng":"Margaret Thatcher",
+    "caption_kor":"마가렛 대처",
+    "cate_content_url":"quotation/content2.json"
+  },
+  {
+    "content_id": 3,
+    "caption_eng":"Frank Smith",
+    "caption_kor":"프랭크 스미스",
+    "cate_content_url":"quotation/content3.json"
+  },
+  {
+    "content_id": 4,
+    "caption_eng":"Albert Einstein",
+    "caption_kor":"알버트 아인슈타인",
+    "cate_content_url":"quotation/content4.json"
+  },
+  {
+    "content_id": 5,
+    "caption_eng":"Audrey Hepburn",
+    "caption_kor":"오드리 햅번",
+    "cate_content_url":"quotation/content5.json"
+  },
+  {
+    "content_id": 6,
+    "caption_eng":"Steve Jobs",
+    "caption_kor":"스티브 잡스 ",
+    "cate_content_url":"quotation/content6.json"
+  }
+  // ,
+    // {
+    //   "content_id": 7,
+    //   "caption_eng":"Jane Goodal",
+    //   "caption_kor":"제인 구달",
+    //   "cate_content_url":"quotation/content7.json"
+    // }
+]

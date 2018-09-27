@@ -1,0 +1,57 @@
+{
+			"id":3,
+			"videoURL":"pronunciation_03",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    <font color='#ea4156'>서수는 항상 'the'를 붙여요. 'th'의 발음은 앞니와 윗니 사이로 혀를 빼고 바람이 나가는 소리에요.</font>
+<br><br>
+'the'로 시작해 'th'로 끝나는 발음이 많아 서수의 발음은 매우 어렵다고 느낄 거예요.
+<br><br>
+<font color='#ea4156'>'the first'의 경우 'the'는 강세를 주지 않고 'f'에 강세를 줍니다.</font> 강세에 신경을 쓰고 마지막 철자까지 정확하게 발음하면서 읽어봅시다.
+    ",			
+			"syncInfo":"0,0,3,5,8,10,13,15,18,20,22,24,27,29,31,34,36,39,41,44,46,47,50,52,55,57,59,62,64,66,69,70,72,75,77,80,82,85,87,89,94,96,97,100,102,104,106",
+			// "syncInfo":"0,0,100,104,106,108,110,113,115",
+			"content_subject":"Ordinal Numbers",
+			"english_content_text": "
+    the first/&nbsp;  the second/ &nbsp; the third/&nbsp;  the fourth/<br>  
+    the fifth/&nbsp;  the sixth /&nbsp; the seventh/&nbsp;  the eighth/<br> 
+    the ninth /&nbsp; the tenth/ 
+<br><br>
+the eleventh/&nbsp; the twelfth/<br> 
+    the thirteenth/&nbsp; the fourteenth/<br>
+    the fifteenth/&nbsp; the sixteenth/<br>
+    the seventeenth/&nbsp; the eighteenth/<br>
+    the nineteenth/&nbsp; the twentieth/ 
+<br><br>  
+the twenty-first /&nbsp;  the twenty-second/<br>
+    the twenty-third /&nbsp; the twenty-fourth/ <br> 
+    the twenty-fifth /&nbsp; the twenty-sixth /<br>
+    the twenty-seventh /&nbsp; the twenty-eighth/<br>  
+    the twenty-ninth /&nbsp; the thirtieth/
+<br>  <br>  
+the thirty-first /&nbsp; the thirty-second/<br>
+    the thirty-third/&nbsp;  the thirty-fourth/<br>
+    the thirty-fifth /&nbsp; the thirty-sixth/<br>
+    the thirty-seventh/&nbsp; the thirty-eighth/<br>
+    the thirty-ninth / &nbsp;the fortieth/ 
+<br><br>
+the fiftieth/<br>the sixtieth/<br>the seventieth /<br>the eightieth/<br>the ninetieth /<br>the hundredth ",
+			"korean_content_text": "1번째/&nbsp; 2번째/&nbsp; 3번째/&nbsp; 4번째/&nbsp; 5번째/<br> 
+    6번째/&nbsp; 7번째 /&nbsp;8번째/&nbsp; 9번째/&nbsp; 10째/<br><br>
+
+11번째/&nbsp; 12번째/&nbsp; 13번째/&nbsp; 14번째/&nbsp; 15번째/<br> 
+    16번째/&nbsp; 17번째/&nbsp; 18번째/&nbsp; 19번째/&nbsp; 20번째/ <br><br>
+
+21번째/&nbsp; 22번째/&nbsp; 23번째/&nbsp; 24번째/&nbsp; 25번째/<br> 
+    26번째/&nbsp; 27번째/&nbsp; 28번째/&nbsp; 29번째/&nbsp; 30번째 /<br><br>
+
+31번째/&nbsp; 32분째 /&nbsp;33번째/&nbsp; 34번째/&nbsp; 35번째/<br> 
+    36번째/&nbsp; 37번째/&nbsp; 38번째/&nbsp; 39번째/&nbsp; 40번째/<br><br>
+
+50번째/<br>
+60번째/<br>
+70번째/<br>
+80번째/<br>
+90번째/<br>
+100번째"
+}

@@ -1,0 +1,21 @@
+{
+			"id":7,
+			"videoURL":"greeting_07",
+			"sampleImages":"",	
+			"word":"<h3><font color='#ea4156'><u>Tips</u></font></h3>
+    
+   <font color='#ea4156'> 'he', 'she'가 아닌 'this is'로 소개해요. </font>
+<br><br>
+여기서 'this is'는 우리나라 말로 '여기는'과 같은 의미이고 'he' 나 'she'는 대화에 참여하고 있지 않은 제3자를 얘기할 때 사용한답니다. ",			
+			"syncInfo":"0,0,5,8,12",	
+			"content_subject":"This is my sister Hana.",
+
+			"english_content_text": "
+    Lisa: Mike, this is my sister Hana. Hana, this is my classmate Mike. <br><br>/
+    Mike: It's a pleasure to meet you.<br><br>/
+    Hana: It's a pleasure to meet you too.",
+			"korean_content_text": "
+    Lisa: 마이크, 여긴 내 동생 하나야. 하나, 이쪽은 나의 반 친구 마이크야. <br><br>/
+    Mike: 만나서 반가워요.<br><br>/
+    Hana: 저도 만나서 반가워요. "
+}
