@@ -17,6 +17,7 @@ import java.util.ArrayList;
 public class BaseApplication extends Application {
     public static boolean DEBUG = false;
     public static MyStoryRecorddbHelper myrecordfiledb;
+    public boolean test_boolean;
 
     @Override
     public void onCreate() {
