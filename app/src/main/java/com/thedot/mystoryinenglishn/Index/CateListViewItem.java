@@ -13,6 +13,7 @@ public class CateListViewItem implements Serializable {
     private  String contentTitleKor;
     private int alexGrage;
     private int meGrage;
+    private int rest_number;
 
     public void setContentId(int _contentId){
         contentId = _contentId;
