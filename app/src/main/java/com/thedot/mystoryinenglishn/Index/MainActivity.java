@@ -142,6 +142,9 @@ public class MainActivity extends AppCompatActivity {
     public BaseApplication getBaseApplication(){
         return  mbaseapplication = (BaseApplication) getApplicationContext();
     }
+    public void downloadAlert(){
+
+    }
 
     public void setMystationFragment(){
         FragmentManager fragmentManager = getSupportFragmentManager();
