@@ -152,7 +152,7 @@ public class CategoryFragment extends Fragment {
             daily_detail_kortitle.get(i).setText(cate.get(i).getCaptionKor());
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(daily_detail_img.get(i));
             daily_detail_img.get(i).setId(Integer.valueOf(i));
-            daily_download.get(i).setId(Integer.valueOf(i));
+            daily_download.get(i).setTag(Integer.valueOf(i));
             daily_detail_img.get(i).setOnClickListener(bigimgClickListener);
             daily_download.get(i).setOnClickListener(downloadClickListener);
 //            daily_heart.get(i).setId(Integer.valueOf(i));
@@ -187,7 +187,7 @@ public class CategoryFragment extends Fragment {
             people_detail_kortitle.get(i).setText(cate.get(i).getCaptionKor());
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(people_detail_img.get(i));
             people_detail_img.get(i).setId(Integer.valueOf(i));
-            people_download.get(i).setId(Integer.valueOf(i));
+            people_download.get(i).setTag(Integer.valueOf(i));
             people_detail_img.get(i).setOnClickListener(bigimgClickListener);
             people_download.get(i).setOnClickListener(downloadClickListener);
 //            people_heart.get(i).setId(Integer.valueOf(i));
@@ -221,7 +221,7 @@ public class CategoryFragment extends Fragment {
             travel_detail_kortitle.get(i).setText(cate.get(i).getCaptionKor());
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(travel_detail_img.get(i));
             travel_detail_img.get(i).setId(Integer.valueOf(i));
-            travel_download.get(i).setId(Integer.valueOf(i));
+            travel_download.get(i).setTag(Integer.valueOf(i));
             travel_detail_img.get(i).setOnClickListener(bigimgClickListener);
             travel_download.get(i).setOnClickListener(downloadClickListener);
 //            travel_heart.get(i).setId(Integer.valueOf(i));
@@ -256,7 +256,7 @@ public class CategoryFragment extends Fragment {
             issue_detail_kortitle.get(i).setText(cate.get(i).getCaptionKor());
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(issue_detail_img.get(i));
             issue_detail_img.get(i).setId(Integer.valueOf(i));
-            issue_download.get(i).setId(Integer.valueOf(i));
+            issue_download.get(i).setTag(Integer.valueOf(i));
             issue_detail_img.get(i).setOnClickListener(bigimgClickListener);
             issue_download.get(i).setOnClickListener(downloadClickListener);
 //            issue_heart.get(i).setId(Integer.valueOf(i));
@@ -289,7 +289,7 @@ public class CategoryFragment extends Fragment {
             country_detail_kortitle.get(i).setText(cate.get(i).getCaptionKor());
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(country_detail_img.get(i));
             country_detail_img.get(i).setId(Integer.valueOf(i));
-            country_download.get(i).setId(Integer.valueOf(i));
+            country_download.get(i).setTag(Integer.valueOf(i));
             country_detail_img.get(i).setOnClickListener(bigimgClickListener);
             country_download.get(i).setOnClickListener(downloadClickListener);
 //            country_heart.get(i).setId(Integer.valueOf(i));

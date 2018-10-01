@@ -77,7 +77,8 @@ public class CategoryDetailFragment extends Fragment {
         download_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ((MainActivity)getActivity()).clickDownload(getArguments().getInt("position"));
+                ((MainActivity)getActivity()).downloadAlert(getArguments().getInt("position"));
+                //((MainActivity)getActivity()).clickDownload(getArguments().getInt("position"));
             }
         });
 

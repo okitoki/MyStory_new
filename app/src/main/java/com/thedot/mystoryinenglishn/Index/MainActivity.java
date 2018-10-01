@@ -26,6 +26,7 @@ import com.google.gson.reflect.TypeToken;
 import com.thedot.mystoryinenglishn.BaseApplication;
 import com.thedot.mystoryinenglishn.R;
 import com.thedot.mystoryinenglishn.Setting.Preferences;
+import com.thedot.mystoryinenglishn.Utils.DownloadAlertDialog;
 import com.thedot.mystoryinenglishn.Utils.PistolLogger;
 import com.thedot.mystoryinenglishn.Utils.Utility;
 
@@ -142,8 +143,25 @@ public class MainActivity extends AppCompatActivity {
     public BaseApplication getBaseApplication(){
         return  mbaseapplication = (BaseApplication) getApplicationContext();
     }
-    public void downloadAlert(){
 
+    public void downloadAlert(final int unitId){
+        final DownloadAlertDialog downloadAlert = DownloadAlertDialog.newInstance(R.string.recording_save,"111","222");
+        FragmentManager fragmentManager = getSupportFragmentManager();
+        downloadAlert.show(fragmentManager,"downloadAlert");
+
+        downloadAlert.setOkDialogEventListner(new DownloadAlertDialog.DialogOkEventListener() {
+            @Override
+            public void onOkEvent() {
+                clickDownload(unitId);
+                downloadAlert.dismiss();
+            }
+        });
+        downloadAlert.setCanceleventListener(new DownloadAlertDialog.DialogcancelEventListener() {
+            @Override
+            public void onCancelEvent() {
+                downloadAlert.dismiss();
+            }
+        });
     }
 
     public void setMystationFragment(){
