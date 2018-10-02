@@ -34,6 +34,19 @@ import java.util.HashMap;
 public class CategoryFragment extends Fragment {
     private static ArrayList<CategoryData> cate;
     public RequestManager mGlideRequestManager;
+    static HashMap<Integer,ImageButton> basic_download = null;
+    static HashMap<Integer,ImageButton> daily_download = null;
+    static HashMap<Integer,ImageButton> people_download = null;
+    static HashMap<Integer,ImageButton> travel_download = null;
+    static HashMap<Integer,ImageButton> country_download = null;
+    static HashMap<Integer,ImageButton> issue_download = null;
+
+    static HashMap<Integer,ImageButton> basic_trash = null;
+    static HashMap<Integer,ImageButton> daily_trash = null;
+    static HashMap<Integer,ImageButton> people_trash = null;
+    static HashMap<Integer,ImageButton> travel_trash = null;
+    static HashMap<Integer,ImageButton> country_trash = null;
+    static HashMap<Integer,ImageButton> issue_trash = null;
 
     public static CategoryFragment newInstance(ArrayList<CategoryData> _cate) {
         Bundle args = new Bundle();
@@ -98,7 +111,8 @@ public class CategoryFragment extends Fragment {
 
 // basic 필수 카테고리
         LinearLayout cate_basic_con_detail = root_view.findViewById(R.id.cate_basic);
-        HashMap<Integer,ImageButton> basic_download = new HashMap<Integer, ImageButton>();
+        basic_download = new HashMap<Integer, ImageButton>();
+        basic_trash = new HashMap<Integer, ImageButton>();
         HashMap<Integer,View> basic_con_detail = new HashMap<Integer, View>();
         HashMap<Integer,TextView> basic_detail_engtitle = new HashMap<Integer, TextView>();
         HashMap<Integer,TextView> basic_detail_kortitle = new HashMap<Integer, TextView>();
@@ -110,6 +124,7 @@ public class CategoryFragment extends Fragment {
             basic_con_detail.put(i,(View)inflater.inflate(R.layout.cate_content_detail,null));
             cate_basic_con_detail.addView(basic_con_detail.get(i));
             basic_download.put(i,(ImageButton) basic_con_detail.get(i).findViewById(R.id.btn_download));
+            basic_trash.put(i,(ImageButton) basic_con_detail.get(i).findViewById(R.id.btn_trash));
             basic_detail_engtitle.put(i,(TextView) basic_con_detail.get(i).findViewById(R.id.eng_title));
             basic_detail_kortitle.put(i,(TextView) basic_con_detail.get(i).findViewById(R.id.kor_title));
             basic_detail_img.put(i,(ImageView) basic_con_detail.get(i).findViewById(R.id.cate_img));
@@ -121,16 +136,26 @@ public class CategoryFragment extends Fragment {
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(basic_detail_img.get(i));
             basic_detail_img.get(i).setId(Integer.valueOf(i));
             basic_download.get(i).setTag(Integer.valueOf(i));
+            basic_trash.get(i).setTag(Integer.valueOf(i));
             basic_detail_img.get(i).setOnClickListener(bigimgClickListener);
             basic_download.get(i).setOnClickListener(downloadClickListener);
-            //basic_heart.get(i).setId(Integer.valueOf(i));
-//            basic_heart.get(i).setChecked(getCheckState(i));
-            //basic_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
+            basic_trash.get(i).setOnClickListener(trashClickListener);
+            basic_heart.get(i).setId(Integer.valueOf(i));
+            basic_heart.get(i).setChecked(getCheckState(i));
+            basic_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
+
+            boolean is = ((MainActivity)getActivity()).getExgistViedoFile(i);
+            if(is) {
+                basic_download.get(i).setVisibility(View.GONE);
+                basic_trash.get(i).setVisibility(View.GONE);
+            }
+            PistolLogger.LOGD("getExgistVideoFile : " + is);
         }
 // dairy 일상 카테고리
         LinearLayout cate_daily_con_detail = root_view.findViewById(R.id.cate_daily);
 
-        HashMap<Integer,ImageButton> daily_download = new HashMap<Integer, ImageButton>();
+        daily_download = new HashMap<Integer, ImageButton>();
+        daily_trash = new HashMap<Integer, ImageButton>();
         HashMap<Integer,View> daily_con_detail = new HashMap<Integer, View>();
         HashMap<Integer,TextView> daily_detail_engtitle = new HashMap<Integer, TextView>();
         HashMap<Integer,TextView> daily_detail_kortitle = new HashMap<Integer, TextView>();
@@ -142,6 +167,7 @@ public class CategoryFragment extends Fragment {
             daily_con_detail.put(i,(View)inflater.inflate(R.layout.cate_content_detail,null));
             cate_daily_con_detail.addView(daily_con_detail.get(i));
             daily_download.put(i,(ImageButton) daily_con_detail.get(i).findViewById(R.id.btn_download));
+            daily_trash.put(i,(ImageButton) daily_con_detail.get(i).findViewById(R.id.btn_trash));
             daily_detail_engtitle.put(i,(TextView) daily_con_detail.get(i).findViewById(R.id.eng_title));
             daily_detail_kortitle.put(i,(TextView) daily_con_detail.get(i).findViewById(R.id.kor_title));
             daily_detail_img.put(i,(ImageView) daily_con_detail.get(i).findViewById(R.id.cate_img));
@@ -153,11 +179,12 @@ public class CategoryFragment extends Fragment {
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(daily_detail_img.get(i));
             daily_detail_img.get(i).setId(Integer.valueOf(i));
             daily_download.get(i).setTag(Integer.valueOf(i));
+            daily_trash.get(i).setTag(Integer.valueOf(i));
             daily_detail_img.get(i).setOnClickListener(bigimgClickListener);
             daily_download.get(i).setOnClickListener(downloadClickListener);
-//            daily_heart.get(i).setId(Integer.valueOf(i));
-//            daily_heart.get(i).setChecked(getCheckState(i));
-//            daily_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
+            daily_heart.get(i).setId(Integer.valueOf(i));
+            daily_heart.get(i).setChecked(getCheckState(i));
+            daily_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
         }
 
         daily_detail_img.get(5).setPadding(0,0,50,0);
@@ -165,7 +192,8 @@ public class CategoryFragment extends Fragment {
 // people 사람 카테고리
         LinearLayout cate_people_con_detail = root_view.findViewById(R.id.cate_people);
 
-        HashMap<Integer,ImageButton> people_download = new HashMap<Integer, ImageButton>();
+        people_download = new HashMap<Integer, ImageButton>();
+        people_trash = new HashMap<Integer, ImageButton>();
         HashMap<Integer,View> people_con_detail = new HashMap<Integer, View>();
         HashMap<Integer,TextView> people_detail_engtitle = new HashMap<Integer, TextView>();
         HashMap<Integer,TextView> people_detail_kortitle = new HashMap<Integer, TextView>();
@@ -177,6 +205,7 @@ public class CategoryFragment extends Fragment {
             people_con_detail.put(i,(View)inflater.inflate(R.layout.cate_content_detail,null));
             cate_people_con_detail.addView(people_con_detail.get(i));
             people_download.put(i,(ImageButton) people_con_detail.get(i).findViewById(R.id.btn_download));
+            people_trash.put(i,(ImageButton) people_con_detail.get(i).findViewById(R.id.btn_trash));
             people_detail_engtitle.put(i,(TextView) people_con_detail.get(i).findViewById(R.id.eng_title));
             people_detail_kortitle.put(i,(TextView) people_con_detail.get(i).findViewById(R.id.kor_title));
             people_detail_img.put(i,(ImageView) people_con_detail.get(i).findViewById(R.id.cate_img));
@@ -188,18 +217,20 @@ public class CategoryFragment extends Fragment {
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(people_detail_img.get(i));
             people_detail_img.get(i).setId(Integer.valueOf(i));
             people_download.get(i).setTag(Integer.valueOf(i));
+            people_trash.get(i).setTag(Integer.valueOf(i));
             people_detail_img.get(i).setOnClickListener(bigimgClickListener);
             people_download.get(i).setOnClickListener(downloadClickListener);
-//            people_heart.get(i).setId(Integer.valueOf(i));
-//            people_heart.get(i).setChecked(getCheckState(i));
-//            people_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
+            people_heart.get(i).setId(Integer.valueOf(i));
+            people_heart.get(i).setChecked(getCheckState(i));
+            people_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
         }
 
         people_detail_img.get(8).setPadding(0,0,50,0);
 
 // travel 여행 카테고리
         LinearLayout cate_travel_con_detail = root_view.findViewById(R.id.cate_travel);
-        HashMap<Integer,ImageButton> travel_download = new HashMap<Integer, ImageButton>();
+        travel_download = new HashMap<Integer, ImageButton>();
+        travel_trash = new HashMap<Integer, ImageButton>();
         HashMap<Integer,View> travel_con_detail = new HashMap<Integer, View>();
         HashMap<Integer,TextView> travel_detail_engtitle = new HashMap<Integer, TextView>();
         HashMap<Integer,TextView> travel_detail_kortitle = new HashMap<Integer, TextView>();
@@ -211,6 +242,7 @@ public class CategoryFragment extends Fragment {
             travel_con_detail.put(i,(View)inflater.inflate(R.layout.cate_content_detail,null));
             cate_travel_con_detail.addView(travel_con_detail.get(i));
             travel_download.put(i,(ImageButton) travel_con_detail.get(i).findViewById(R.id.btn_download));
+            travel_trash.put(i,(ImageButton) travel_con_detail.get(i).findViewById(R.id.btn_trash));
             travel_detail_engtitle.put(i,(TextView) travel_con_detail.get(i).findViewById(R.id.eng_title));
             travel_detail_kortitle.put(i,(TextView) travel_con_detail.get(i).findViewById(R.id.kor_title));
             travel_detail_img.put(i,(ImageView) travel_con_detail.get(i).findViewById(R.id.cate_img));
@@ -222,11 +254,12 @@ public class CategoryFragment extends Fragment {
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(travel_detail_img.get(i));
             travel_detail_img.get(i).setId(Integer.valueOf(i));
             travel_download.get(i).setTag(Integer.valueOf(i));
+            travel_trash.get(i).setTag(Integer.valueOf(i));
             travel_detail_img.get(i).setOnClickListener(bigimgClickListener);
             travel_download.get(i).setOnClickListener(downloadClickListener);
-//            travel_heart.get(i).setId(Integer.valueOf(i));
-//            travel_heart.get(i).setChecked(getCheckState(i));
-//            travel_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
+            travel_heart.get(i).setId(Integer.valueOf(i));
+            travel_heart.get(i).setChecked(getCheckState(i));
+            travel_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
         }
 
         travel_detail_img.get(12).setPadding(0,0,50,0);
@@ -234,7 +267,8 @@ public class CategoryFragment extends Fragment {
 // issue 이슈 카테고리
         LinearLayout cate_issue_con_detail = root_view.findViewById(R.id.cate_issue);
 
-        HashMap<Integer,ImageButton> issue_download = new HashMap<Integer, ImageButton>();
+        issue_download = new HashMap<Integer, ImageButton>();
+        issue_trash = new HashMap<Integer, ImageButton>();
         HashMap<Integer,View> issue_con_detail = new HashMap<Integer, View>();
         HashMap<Integer,TextView> issue_detail_engtitle = new HashMap<Integer, TextView>();
         HashMap<Integer,TextView> issue_detail_kortitle = new HashMap<Integer, TextView>();
@@ -246,6 +280,7 @@ public class CategoryFragment extends Fragment {
             issue_con_detail.put(i,(View)inflater.inflate(R.layout.cate_content_detail,null));
             cate_issue_con_detail.addView(issue_con_detail.get(i));
             issue_download.put(i,(ImageButton) issue_con_detail.get(i).findViewById(R.id.btn_download));
+            issue_trash.put(i,(ImageButton) issue_con_detail.get(i).findViewById(R.id.btn_trash));
             issue_detail_engtitle.put(i,(TextView) issue_con_detail.get(i).findViewById(R.id.eng_title));
             issue_detail_kortitle.put(i,(TextView) issue_con_detail.get(i).findViewById(R.id.kor_title));
             issue_detail_img.put(i,(ImageView) issue_con_detail.get(i).findViewById(R.id.cate_img));
@@ -257,17 +292,19 @@ public class CategoryFragment extends Fragment {
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(issue_detail_img.get(i));
             issue_detail_img.get(i).setId(Integer.valueOf(i));
             issue_download.get(i).setTag(Integer.valueOf(i));
+            issue_trash.get(i).setTag(Integer.valueOf(i));
             issue_detail_img.get(i).setOnClickListener(bigimgClickListener);
             issue_download.get(i).setOnClickListener(downloadClickListener);
-//            issue_heart.get(i).setId(Integer.valueOf(i));
-//            issue_heart.get(i).setChecked(getCheckState(i));
-//            issue_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
+            issue_heart.get(i).setId(Integer.valueOf(i));
+            issue_heart.get(i).setChecked(getCheckState(i));
+            issue_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
         }
 
 // country 국가 카테고리
         LinearLayout cate_country_con_detail = root_view.findViewById(R.id.cate_country);
 
-        HashMap<Integer,ImageButton> country_download = new HashMap<Integer, ImageButton>();
+        country_download = new HashMap<Integer, ImageButton>();
+        country_trash = new HashMap<Integer, ImageButton>();
         HashMap<Integer,View> country_con_detail = new HashMap<Integer, View>();
         HashMap<Integer,TextView> country_detail_engtitle = new HashMap<Integer, TextView>();
         HashMap<Integer,TextView> country_detail_kortitle = new HashMap<Integer, TextView>();
@@ -279,6 +316,7 @@ public class CategoryFragment extends Fragment {
             country_con_detail.put(i,(View)inflater.inflate(R.layout.cate_content_detail,null));
             cate_country_con_detail.addView(country_con_detail.get(i));
             country_download.put(i,(ImageButton) country_con_detail.get(i).findViewById(R.id.btn_download));
+            country_trash.put(i,(ImageButton) country_con_detail.get(i).findViewById(R.id.btn_trash));
             country_detail_engtitle.put(i,(TextView) country_con_detail.get(i).findViewById(R.id.eng_title));
             country_detail_kortitle.put(i,(TextView) country_con_detail.get(i).findViewById(R.id.kor_title));
             country_detail_img.put(i,(ImageView) country_con_detail.get(i).findViewById(R.id.cate_img));
@@ -290,11 +328,12 @@ public class CategoryFragment extends Fragment {
             mGlideRequestManager.load(getResources().getIdentifier(cate.get(i).getImageUrl(), "drawable", ((MainActivity)getActivity()).getPackageName())).into(country_detail_img.get(i));
             country_detail_img.get(i).setId(Integer.valueOf(i));
             country_download.get(i).setTag(Integer.valueOf(i));
+            country_trash.get(i).setTag(Integer.valueOf(i));
             country_detail_img.get(i).setOnClickListener(bigimgClickListener);
             country_download.get(i).setOnClickListener(downloadClickListener);
-//            country_heart.get(i).setId(Integer.valueOf(i));
-//            country_heart.get(i).setChecked(getCheckState(i));
-//            country_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
+            country_heart.get(i).setId(Integer.valueOf(i));
+            country_heart.get(i).setChecked(getCheckState(i));
+            country_heart.get(i).setOnCheckedChangeListener(heartCheckListener);
         }
 //top setting button and mystation button
 
@@ -322,9 +361,14 @@ public class CategoryFragment extends Fragment {
                 return true;
             }
         });
+//        for(int i = 0; i<15;++i){
+//            String num = Integer.toString(i);
+//            boolean aa = Preferences.getExgistVideoFile(getContext(),num);
+//            if(aa){
+//
+//            }
+//        }
 
-//        ArrayList<String> aa = Preferences.getExgistVideoFile(getContext());
-//        PistolLogger.LOGD("download id: ====>" + aa.get(0));
 
         return root_view;
     }
@@ -337,11 +381,46 @@ public class CategoryFragment extends Fragment {
         }
     };
 
+    View.OnClickListener trashClickListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            int cateId = Integer.parseInt(view.getTag().toString());
+            ((MainActivity)getActivity()).clickDeleteDownloadFile(cateId,cate.get(cateId).getunitNumber());
+        }
+    };
     View.OnClickListener downloadClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View view) {
+
             PistolLogger.LOGD("view.getTag().toString(): " + String.valueOf(view.getTag()));
-            ((MainActivity)getActivity()).clickDownload(Integer.parseInt(view.getTag().toString()));
+            int cateId = Integer.parseInt(view.getTag().toString());
+            ((MainActivity)getActivity()).clickDownload(cateId);
+            switch (cateId) {
+                case 0: case 1:
+                    basic_download.get(view.getTag()).setVisibility(View.GONE);
+                    basic_trash.get(view.getTag()).setVisibility(View.VISIBLE);
+                    break;
+                case 2: case 3: case 4: case 5:
+                    daily_download.get(view.getTag()).setVisibility(View.GONE);
+                    daily_trash.get(view.getTag()).setVisibility(View.VISIBLE);
+                    break;
+                case 6: case 7: case 8:
+                    people_download.get(view.getTag()).setVisibility(View.GONE);
+                    people_trash.get(view.getTag()).setVisibility(View.VISIBLE);
+                    break;
+                case 9: case 10: case 11: case 12:
+                    travel_download.get(view.getTag()).setVisibility(View.GONE);
+                    travel_trash.get(view.getTag()).setVisibility(View.VISIBLE);
+                    break;
+                case 13: case 14:
+                    country_download.get(view.getTag()).setVisibility(View.GONE);
+                    country_trash.get(view.getTag()).setVisibility(View.VISIBLE);
+                    break;
+                case 15: case 16:
+                    travel_download.get(view.getTag()).setVisibility(View.GONE);
+                    travel_trash.get(view.getTag()).setVisibility(View.VISIBLE);
+                    break;
+            }
         }
     };
 
@@ -360,6 +439,7 @@ public class CategoryFragment extends Fragment {
     };
 
     public boolean getCheckState(int pos){
+
         ArrayList<Integer> like_cateId = ((MainActivity)getActivity()).getBaseApplication().getLikeCateIdVale();
         int current_pos = pos + 1;
         for(int id : like_cateId) {

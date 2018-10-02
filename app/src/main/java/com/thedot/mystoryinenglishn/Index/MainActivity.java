@@ -144,8 +144,10 @@ public class MainActivity extends AppCompatActivity {
         return  mbaseapplication = (BaseApplication) getApplicationContext();
     }
 
-    public void downloadAlert(final int unitId){
-        final DownloadAlertDialog downloadAlert = DownloadAlertDialog.newInstance(R.string.recording_save,"111","222");
+    public void downloadAlert(String cateTitle, String cateUnitNumber, final int unitId){
+        String cateUnitNum = cateUnitNumber + " Episodes";
+        final DownloadAlertDialog downloadAlert = DownloadAlertDialog.newInstance(cateTitle, cateUnitNum, unitId);
+
         FragmentManager fragmentManager = getSupportFragmentManager();
         downloadAlert.show(fragmentManager,"downloadAlert");
 
@@ -291,6 +293,30 @@ public class MainActivity extends AppCompatActivity {
         mDownloadId = dm.enqueue(request);
     }
 
+    public void clickDeleteDownloadFile(int unitId, int unitTotalNumber){
+        String thePackageName = getPackageName();
+        String root = Environment.getExternalStorageDirectory().getAbsolutePath();
+        String zipFilePath = root + "/Android/obb/"+thePackageName;
+        String zipFilename =  Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS) + "/" + zip_file_name[unitId]+".zip";
+
+        File file1 = new File(zipFilename);
+        Utility.deleteFile(file1);
+
+        for(int i = 1; i<unitTotalNumber+1 ;++i){
+            String file = zipFilePath + "/" + zip_file_name[unitId] + "_"+ String.format("%02d",i) + ".mp4";
+            File delefile = new File(file);
+            Utility.deleteFile(delefile);
+            PistolLogger.LOGD("delete file:" + file + ", " + "zip file name : " + zipFilename);
+        }
+
+        Preferences.setExgistVideoFile(getApplicationContext(),zip_file_name[unitId],false);
+
+    }
+
+    public boolean getExgistViedoFile(int unitId){
+        boolean exgistFile = Preferences.getExgistVideoFile(getApplicationContext(),zip_file_name[unitId]);
+        return exgistFile;
+    }
     public void clickDownload(int lession_id){
         final String zip_file_path = "http://the-dot.co.kr/adult_english_zip/";
         String file_url = zip_file_path + zip_file_name[lession_id] +".zip";

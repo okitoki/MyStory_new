@@ -10,9 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.widget.Button;
 import android.widget.ImageButton;
-import android.widget.RelativeLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.thedot.mystoryinenglishn.R;
@@ -73,12 +72,14 @@ public class CategoryDetailFragment extends Fragment {
         setCategoryName(current_cate_position);
         setViewpager();
 
-        Button download_button = (Button) root_view.findViewById(R.id.btn_bottom_download);
+        ImageButton download_button = (ImageButton) root_view.findViewById(R.id.btn_bottom_download);
         download_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ((MainActivity)getActivity()).downloadAlert(getArguments().getInt("position"));
-                //((MainActivity)getActivity()).clickDownload(getArguments().getInt("position"));
+                int cateId = getArguments().getInt("position");
+                String cateTile = ((MainActivity)getActivity()).getCate_data().get(cateId).getCaptionEng();
+                String cateNnitNum = String.format("%02d",((MainActivity)getActivity()).getCate_data().get(cateId).getunitNumber());
+                ((MainActivity)getActivity()).downloadAlert(cateTile,cateNnitNum,cateId);
             }
         });
 
@@ -91,9 +92,10 @@ public class CategoryDetailFragment extends Fragment {
 
         return root_view;
     }
+
     public void downloadButtonShow(int cate){
 
-        RelativeLayout layout_download_button = (RelativeLayout) root_view.findViewById(R.id.layout_download);
+        LinearLayout layout_download_button = (LinearLayout) root_view.findViewById(R.id.layout_download);
         if(Preferences.getExgistVideoFile(getContext(),String.valueOf(cate))){
             layout_download_button.setVisibility(View.GONE);
 

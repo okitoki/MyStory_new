@@ -3,6 +3,7 @@ package com.thedot.mystoryinenglishn.Utils;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.view.LayoutInflater;
@@ -26,12 +27,12 @@ public class DownloadAlertDialog extends DialogFragment{
     private DialogOkEventListener okeventListener;
     private DialogcancelEventListener canceleventListener;
 
-    public static DownloadAlertDialog newInstance(int title, String subject, String filename) {
+    public static DownloadAlertDialog newInstance(String cateTitle, String cateUnitNumber,int cateId) {
         DownloadAlertDialog frag = new DownloadAlertDialog();
         Bundle args = new Bundle();
-        args.putInt("title", title);
-        args.putString("subject", subject);
-        args.putString("filename", filename);
+        args.putInt("cateId", cateId);
+        args.putString("cateTitle", cateTitle);
+        args.putString("cateUnitNumber", cateUnitNumber);
         frag.setArguments(args);
         return frag;
     }
@@ -47,13 +48,18 @@ public class DownloadAlertDialog extends DialogFragment{
         // Use the Builder class for convenient dialog construction
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity(),R.style.alertDailog);
 
+        Typeface typefaceserif = Typeface.createFromAsset(getActivity().getAssets(), "fonts/serifkregular.otf");
+
         LayoutInflater inflater = getActivity().getLayoutInflater();
         View view = inflater.inflate(R.layout.downloaddialog_view,null);
         builder.setView(view);
-        TextView subject = (TextView) view.findViewById(R.id.download_unit_subject);
-        TextView filename = (TextView) view.findViewById(R.id.download_unit_number);
-        subject.setText(getArguments().getString("subject"));
-        filename.setText(getArguments().getString("filename"));
+        TextView cateId = (TextView) view.findViewById(R.id.download_unit_subject);
+        cateId.setTypeface(typefaceserif);
+        cateId.setIncludeFontPadding(false);
+
+        TextView unitNumber = (TextView) view.findViewById(R.id.download_unit_number);
+        cateId.setText(getArguments().getString("cateTitle"));
+        unitNumber.setText(getArguments().getString("cateUnitNumber"));
 
         final Button okbtn = (Button) view.findViewById(R.id.dialog_btn_ok);
         Button cancelbtn = (Button) view.findViewById(R.id.dialog_btn_cancel);

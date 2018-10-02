@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="270dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/modalwindow"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/download_unit_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Greeting"
+            android:textColor="@color/colorBlack"
+            android:textSize="16dip" />
+
+        <TextView
+            android:id="@+id/download_unit_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:text="08 Episodes"
+            android:textColor="@color/pager_list_title_activity"
+            android:textSize="12dip" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="10dp"
+            android:scaleType="fitStart"
+            app:srcCompat="@drawable/img_downloadmain" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/dialog_btn_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:paddingRight="10dp"
+                android:text="Cancle"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimary" />
+
+            <Button
+                android:id="@+id/dialog_btn_ok"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:paddingLeft="10dp"
+                android:text="Download"
+                android:textAllCaps="false"
+                android:textColor="@color/colorAccent" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
